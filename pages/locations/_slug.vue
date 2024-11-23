@@ -149,13 +149,13 @@ export default {
 
     const essays = []
 
-    const queriedEssays = await $content('digital-essays')
-      .where({ location: slug })
-      .fetch()
+    // const queriedEssays = await $content('digital-essays')
+    //   .where({ location: slug })
+    //   .fetch()
 
-    queriedEssays.forEach((essay) => {
-      essays.push(essay)
-    })
+    // queriedEssays.forEach((essay) => {
+    //   essays.push(essay)
+    // })
 
     return {
       page,
