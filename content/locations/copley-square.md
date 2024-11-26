@@ -3,11 +3,10 @@ title: TEST Copley Square
 metaDescription: This is a test.
 description: Copley Square is not actually very important for the American Revolution. This is just a test page.
 order: 0
-latitude: 42.349742871002285
-longitude: -71.07651991800763
+latitude: 42.3497
+longitude: -71.0765
 resources:
 - demo-resource
-
 ---
 
 # Here's a header
