@@ -5,7 +5,7 @@
         class="inline-block"
         to="/"
       >
-        <nuxt-img class="h-10 w-auto xl:h-12" src="/brand-wordmark.svg" alt="Walk to the Sea" />
+        <div>Terrains of Independence Tours</div>
       </nuxt-link>
     </div>
   </header>

@@ -1,33 +1,24 @@
 ---
 title: Home
-metaDescription: The Walk to the Sea covers four centuries of Boston history. Follow this free walking tour with markers running through downtown Boston and the accompanying digital resources to learn how Boston's spaces have changed over time.
+metaDescription: These tours of the Greater Boston region explore the historical geography of the American Revolutionary War Era and expand your visit beyond the walls of Terrains of Independence.
 hero:
     img:
         src: "/hero-index.jpg"
         alt: "Photo of Boston Harbor"
-    headline: "The Walk to the Sea covers four centuries of Boston history. Follow this free walking tour with markers running through downtown Boston and the accompanying digital resources to learn how Boston’s spaces have changed over time.
-           "
+    headline: "These tours of the Greater Boston region explore the historical geography of the American Revolutionary War Era and expand your visit beyond the walls of Terrains of Independence."
     intro:
-        paragraph: "Start your journey by opening the map or begin at the first marker on Beacon Hill."
-        map_link: "Explore Map"
-        first_location_link: "Begin at Beacon Hill"
-body_paragraph: "The Walk to the Sea crosses a terrain that, centuries before, was not land at
-                 all, but an active port.  Beginning at the State House on Beacon Hill, overlooking the
-            old Boston Common, the Walk passes historic monuments and skyscrapers. From Beacon Hill to Long Wharf, the Walk invites you into a history that is linked to the sea,
-                 whose smells and sounds once invaded the city. This one-mile interpretive walk through the heart of Boston gives life to that story."
+        paragraph: "Start your journey by opening the map or beginning at the first stop."
+        map_link: "Explore map"
+        first_location_link: "Begin at the first stop"
+body_paragraph: "In 1775, a collision of word-historical forces, driven by ocean-spanning empires, conflicts over trade and settlement, and new ideas about society and government, came together in the spark of the American Revolution. Yet although both the causes and the consequences of the Revolution were grand in scale, the war ignited in the tinderbox of a very specific local geography: Boston and the surrounding towns of Massachusetts. Why did it happen here? The revolutionary moment was as much about places as it was about people or ideas. In and around Boston, the tensions of Britain’s colonial empire had been rising for decades before the 1770s. The commercial geography of the city and its region, zones of friction between classes and communities, and contestations over the environment all helped to create the conditions that led to an era of revolutionary upheaval in Massachusetts. These tour sites help expand the gallery exhibition _Terrains of Independence_ and invite you to discover how geography shapes the past."
 locations:
     img:
         src: "/feature-index.jpg"
         alt: "Photo of Customs House Observation Tower"
-    heading: "Start your journey by selecting one of the Walk to the Sea locations. Each location features a permanent interpretive marker in the city."
-video:
-    src: "https://s3.us-east-2.wasabisys.com/lmec-public-files/wtts-static-assets/intro-video.mp4"
-    caption: "Watch Boston's Transformation"
+    heading: "Start your journey by selecting one of the tour stop locations."
+
 accessibility:
     heading: "Accessibility and Route Planning"
-    paragraph: "The complete Walk to the Sea route is **1.4 mi (2.25km)**
-                in length.  From its highest point at the origin in Beacon Hill to the
-                lowest point at Long Wharf, the **elevation loss is 90 ft (28 m)**. By following curb cuts, the walk is ADA accessible."
-footer_credit: "The Walk to the Sea is a project of the Mapping Boston Foundation and the [Norman B. Leventhal Map and Education
-                Center at the Boston Public Library](https://leventhalmap.org)"
+    paragraph: "Info TKTK"
+footer_credit: "A coursework project created by students in [Public History at Northeastern University]() and the [Norman B. Leventhal Map and Education Center at the Boston Public Library](https://leventhalmap.org)"
 ---

@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Walk to the Sea',
+    title: 'Terrains of Independence Tours',
     htmlAttrs: {
       lang: 'en'
     },
@@ -14,7 +14,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'msapplication-TileColor', content: '#1d1e2c' },
       { name: 'theme-color', content: '#1d1e2c' },
-      { name: 'og:site_name', content: 'Walk to the Sea' },
+      { name: 'og:site_name', content: 'Terrains of Independence Tours' },
       { name: 'og:type', content: 'website' },
       { name: 'twitter:card', content: 'summary' },
       { name: 'twitter:site', content: '@walktotheseabos' }

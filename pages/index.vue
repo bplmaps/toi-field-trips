@@ -4,18 +4,7 @@
     :class="showSplash && 'h-screen overflow-hidden'"
   >
     <div v-if="page.hero" class="relative">
-      <div
-        class="absolute z-50 inset-0 w-full h-full flex justify-center items-center transition-opacity duration-1000 ease-in-out cursor-pointer"
-        :class="!showSplash && 'opacity-0 pointer-events-none'"
-        @click="showSplash = false"
-      >
-        <nuxt-img
-          class="block m-auto w-3/4 max-w-3xl h-auto sm:w-1/2"
-          src="/brand-logo.png"
-          alt="Walk to the Sea logo"
-          sizes="sm:100vw md:50vw lg:50vw xl:50vw 2xl:50vw"
-        />
-      </div>
+
       <nuxt-img
         v-if="page.hero.img"
         class="absolute object-cover object-center w-full h-full"
@@ -32,7 +21,7 @@
             to="/"
             class="absolute top-0"
           >
-            <nuxt-img class="h-10 my-5 w-auto xl:h-18 xl:my-12" src="/brand-wordmark.svg" alt="Walk to the Sea wordmark" />
+            <div class="h-10 my-5 w-auto xl:h-18 xl:my-12">Terrains of Independence Tours</div>
           </nuxt-link>
           <h1 v-if="page.hero.headline" class="text-2xl lg:text-4xl border-b border-pewter pb-8 mb-4 lg:w-2/3 lg:pb-0 lg:mb-0 lg:border-0 lg:pr-14 xl:text-5xl 2xl:pr-28 2xl:text-6xl">
             {{ page.hero.headline }}
@@ -66,9 +55,8 @@
     </div>
 
     <div v-if="page.body_paragraph" class="container mx-auto px-5 py-14 sm:py-28 xl:max-w-[68rem]">
-      <p class="text-3xl leading-none xl:text-4xl">
-        {{ page.body_paragraph }}
-      </p>
+      <render-markdown class="text-xl leading-none xl:text-2xl leading-relaxed" :source="page.body_paragraph">
+      </render-markdown>
     </div>
 
     <div
@@ -170,7 +158,7 @@ export default {
   },
   data () {
     return {
-      showSplash: true
+      showSplash: false
     }
   },
   head () {
