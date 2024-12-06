@@ -1,14 +1,14 @@
 ---
-title: DRAFT Chocolate Mill
-metaDescription: This chocolate mill in Dorchester appears on AmRev maps.
-description: This is the site of a former chocolate mill in Dorchester that originated during the American Revolutionary period.
+title: Boston Chocolate Mill
+metaDescription: This is a chocolate mill in the North End of Boston.
+description: This is the site of a Revolutionary-era chocolate mill in Boston.
 order: 0
-latitude: 42.2713439499811
-longitude: -71.06829194439432
+latitude: 42.36617305911067
+longitude: -71.05562085737431
 resources:
 - test-resource
 ---
 # Chocolate Mill
-## Manufacturing in Dorchester and Boston
+## Making Chocolate in Boston
 ## Atlantic Trade
 ## Chocolate and Revolution
