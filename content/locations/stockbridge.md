@@ -10,6 +10,8 @@ resources:
 ---
 
 # Settling Stockbridge - Creation of "Indian Town"
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#{{1627-Mahican}}" width="100%" height="500">
+</iframe>
 
 # Joining the Continental Army
 
