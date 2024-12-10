@@ -3,8 +3,8 @@ title: Stockbridge
 metaDescription: This is the town of Stockbridge, Massachussetts.
 description: The town of Stockbridge was formerly a Mission town and home to the Stockbridge-Munsee band of Mohican Indians, the first group of indigenous peoples to join the Continental Army during the American Revolution.
 order: 0
-latitude: 42.283805362262655 
-longitude: -73.31981726933161
+latitude: 42.284231
+longitude: -73.322382
 resources:
 - demo-resource
 ---
