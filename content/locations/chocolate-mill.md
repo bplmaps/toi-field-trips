@@ -1,7 +1,7 @@
 ---
 title: Boston Chocolate Mill
 metaDescription: This is a chocolate mill in the North End of Boston.
-description: This is the site of a Revolutionary-era chocolate mill in Boston.
+description: During the Revolutionary era, Jonas Welsh owned a chocolate mill at the corner of Margaret Lane and Sheaf Street in the North End of Boston.
 order: 0
 latitude: 42.36617305911067
 longitude: -71.05562085737431
@@ -11,29 +11,37 @@ resources:
 In pre-Revolution Boston, industry and manufacturing had two forms: mills outside of the city and small workshops on the peninsula. The first grist mills for grinding grain on the Charles and Neponset rivers opened within four years of Boston’s founding in 1630. The flow of the rivers provided power to run the machinery, which was not possible within Boston proper. On the Shawmut Peninsula, manufacturing, including chocolate grinding, occurred in the bustle of the city in neighborhoods like the North End filled with homes and businesses close to the waterfront where unprocessed goods arrived in ships from abroad.
 
 # What is the history of chocolate?
+
 Humans began consuming chocolate at least 5,300 years ago in the region now known as [Ecuador](https://www.science.org/content/article/world-s-oldest-chocolate-was-made-5300-years-ago-south-american-rainforest). Chocolate was introduced to Europe by the Spanish, though they tried to keep their recipes secret. But the recipes were first printed in London in English in 1640, and chocolate quickly became popular among the elite. Chocolate was consumed primarily as a drink, so it was sold as a powder or paste made from cocoa beans, which would be mixed with water in the home. Cocoa beans came to England through the British West Indian colonies, but other colonizing nations included cocoa beans in their trade systems as well. The Caribbean’s proximity to North America meant that cocoa beans also made their way to New England for processing.
 
 # Where are the chocolate mills?
+
 <iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#chocolate-boston-dorchester" width="100%" height="500">
 </iframe>
 
 ## How was chocolate produced?
+
 Specific dates vary by source, but it is generally agreed that by the early eighteenth century, cocoa beans were transported directly from the colonized islands of the Caribbean to the British colonies in North America, meaning that the people of New England did not trade chocolate through the middleman of Britain. Though chocolate also started out as a product of the elite in New England, it became more widely spread than in Britain, and much of the technology developed to produce chocolate from cocoa beans was created—or adapted from other milling equipment—in North America.
 
 # Chocolate and Revolution
 
 ## Sugar, tea, and chocolate
+
 Like sugar, molasses, and tea, cocoa beans were subject to the same taxation and regulation, though drinking chocolate was never as widely popular. Also like tea, chocolate was rarely consumed without a spoonful of sugar added, so the histories are inextricably linked. After the Molasses Act of 1733, it was easier (and cheaper) to smuggle molasses from the Caribbean islands colonized by other European countries than to import British West Indian sugar. The later Sugar Act of 1764 is often identified as the origin of North American resistance to Parliament, because Boston’s elite merchant class felt especially threatened. In the correspondence of Samuel and James Otis, historian Anne Blashke has identified an increase in their mentions of chocolate in the late 1760s, including making specific purchases out of their own pockets and ensuring that their chocolate stores were replenished as soon as they ran out. Earlier, demand for chocolate among Boston’s dry goods stores was limited.
 
 ## Boycotting tea in Boston
+
 It is no coincidence then that between 1768 and 1773 New England imported 81 percent of its cocoa beans from non-British sources—compared to 50 percent in New York and 40 percent in Philadelphia. After the Boston Tea Party in 1773, Bostonians began a boycott of tea products. Historian Benjamin Carp notes that there was speculation among Boston residents at the time that the city’s merchants only supported the boycott because they had large stores of coffee and chocolate that they wanted to sell. But nevertheless, drinking chocolate became a symbol in Boston of rebellion against the British crown at this time. It was vital that women participated in the tea boycott, because tea salons had been a social liberator earlier in the century—drinking chocolate was one option to replace tea in this way, and many elite women already enjoyed chocolate occasionally. Because cocoa beans were still easily available due to the lack of reliance on British West Indian colonies for their trade, Bostonians could continue to consume chocolate after trade with Britain was closed. But chocolate was not limited to New England in the burgeoning Revolution.
 
-PANEL TRUCK about paths of trade? (Caribbean > Boston/Newport/New York/Philadelphia > Southern colonies and abroad) https://www.argomaps.org/maps/commonwealth:z603vg531/ 
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#chocolate-trade" width="100%" height="500">
+</iframe>
 
 # Places of chocolate production during and after the Revolution
+
 Chocolate production underwent a transformation during the Revolutionary era. Prior, chocolate grinders had emphasized the origin places of their cocoa beans in their advertising to indicate the quality of the chocolate. Chocolate was produced by small businesses located centrally in Boston. As the Revolutionary era progressed, Boston emerged out of the four major chocolate-producing cities of New England (the others being New York, Philadelphia, and Newport, Rhode Island) as the only one that survived to sell quality chocolate in the aftermath. Both Welsh and Baker identified themselves as “Boston chocolate” to show that their manufacture in Boston indicated the quality of the chocolate in the Early Republic.
 
 ## Welsh’s Boston Chocolate
+
 <p> Jonas Welsh’s chocolate mill in the North End was a holdover from the earlier methods of chocolate production in Boston. Nestled in the North End from the early 1780s to at least 1798, Jonas Welsh advertised himself as a “chocolate maker.” The work of cleaning and grinding the cocoa beans and mixing them with sugar to make chocolate was likely all done by hand, as it had been in previous decades. Prior to chocolate’s increase in popularity in the 1760s, chocolate makers were often merchants or druggists, grinding chocolate alongside other goods like grain or coffee while chocolate was not popular enough to sustain a family’s income. This location in the North End would have been integrated with the political and patriotic action resulting from the Revolution. </p>
 
 <p>Chocolate grinders had a significant presence in Boston in the early 1780s, largely because they were dangerous. In 1785, the General Court gathered and passed a law entitled “An Act To Prevent Damage From Fire Being Communicated From Chocolate Mills And Machines For Roasting Cocoa, In The Town Of Boston.” This act disallowed new chocolate grinders from opening shop in Boston due to the risk of fire. Shops like Jonas Welsh’s were allowed to stay if approved by the Selectman—thus not really reducing the risk of fire in the city—but new ones had to be licensed or moved out of town. In cramped areas like the North End, the risk of fire to neighboring houses and people was too great to be ignored. Could this have spelled the end for small chocolate grinders like Jonas Welsh and paved the path of success for larger factories like Baker’s Chocolate? </p>
@@ -52,7 +60,11 @@ Enslaved labor in the Caribbean provided the cocoa beans and sugar that New Engl
 
 ## Enslavement in Boston
 
-Enslavement was slowly and quietly disallowed across Massachusetts by the time of the ratification of the Constitution in 1788. But small chocolate makers on the scale of Jonas Welsh’s business were known to have used enslaved labor in the production of chocolate. Enslaved people in Boston were often trained by their enslavers to work in their trade alongside them, but the work was still difficult, menial, and dangerous. Based on newspaper advertisements studied by Louis Evan Grivetti, from the 1720s to the 1760s, enslaved labor was primarily used for the demanding physical work of grinding the cocoa beans: “[Sam] has been used to grind Chocolate and carry it about for Sale.” BOSTON CHOCOLATE Jonas Welsh does not appear to have enslaved anyone in his chocolate mill.
+<p> Enslavement was slowly and quietly disallowed across Massachusetts by the time of the ratification of the Constitution in 1788. But small chocolate makers on the scale of Jonas Welsh’s business were known to have used enslaved labor in the production of chocolate. Enslaved people in Boston were often trained by their enslavers to work in their trade alongside them, but the work was still difficult, menial, and dangerous. Based on newspaper advertisements studied by Louis Evan Grivetti, from the 1720s to the 1760s, enslaved labor was primarily used for the demanding physical work of grinding the cocoa beans: </p>
+
+> [Sam] has been used to grind Chocolate and carry it about for Sale. BOSTON CHOCOLATE
+
+<p> Jonas Welsh does not appear to have enslaved anyone in his chocolate mill. </p>
 
 ## Resistance to enslavement
 
