@@ -29,6 +29,8 @@ Specific dates vary by source, but it is generally agreed that by the early eigh
 
 Like sugar, molasses, and tea, cocoa beans were subject to the same taxation and regulation, though drinking chocolate was never as widely popular. Also like tea, chocolate was rarely consumed without a spoonful of sugar added, so the histories are inextricably linked. After the Molasses Act of 1733, it was easier (and cheaper) to smuggle molasses from the Caribbean islands colonized by other European countries than to import British West Indian sugar. The later Sugar Act of 1764 is often identified as the origin of North American resistance to Parliament, because Boston’s elite merchant class felt especially threatened. In the correspondence of Samuel and James Otis, historian Anne Blashke has identified an increase in their mentions of chocolate in the late 1760s, including making specific purchases out of their own pockets and ensuring that their chocolate stores were replenished as soon as they ran out. Earlier, demand for chocolate among Boston’s dry goods stores was limited.
 
+![Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate.](https://images.historicnewengland.org/rs/211151/scr/default.jpg)
+
 <zoomable-image type="jpg" src="https://images.historicnewengland.org/rs/211151/scr/default.jpg" alt="A Delftware chocolate pot with lid and handle decorate with flowers" caption="Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate."></zoomable-image>
 
 ## Boycotting tea in Boston
@@ -73,6 +75,8 @@ Enslaved labor in the Caribbean provided the cocoa beans and sugar that New Engl
 Historian Jared Ross Hardesty describes one instance of enslaved people using chocolate as a form of resistance. In 1731, just prior to the Molasses Act when chocolate was still primarily consumed by Boston’s elite, three enslaved people (Yaw, Caesar, and Betty) labored at a tavern owned by their enslaver, Humphrey Scarlett and his wife Mary, where Mary was an overbearing boss. Fed up with her mistreatment of them, Yaw, Caesar, and Betty attempted to poison Mary by mixing arsenic into the water she used to make her drinking chocolate. Only Mary was supposed to consume the chocolate, but the whole family drank some the next morning, which led to them all becoming seriously ill, though none of them died. Yaw, Caesar, and Betty used the poisoning to protest their mistreatment and their working conditions. Though this incident occurred well prior to the Revolution, it reinforces the early associations of chocolate with the wealthy in Boston and brings into question some of the gendered implications of chocolate drinking that arose again later during the tea boycott.
 
 # Revolutionary imagery in the 19th century
+
+![Trade card for Walter Baker & Co. Chocolate, undated.](https://images.historicnewengland.org/rs/262135/scr/default.jpg)
 
 <zoomable-image type="jpg" src="https://images.historicnewengland.org/rs/262135/scr/default.jpg" alt="An illustration of a woman in eighteenth century dress carrying a tray with a cup and saucer" caption="Trade card for Walter Baker & Co. Chocolate, undated."></zoomable-image>
 
