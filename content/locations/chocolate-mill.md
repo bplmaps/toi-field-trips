@@ -31,8 +31,6 @@ Like sugar, molasses, and tea, cocoa beans were subject to the same taxation and
 
 ![Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate.](https://images.historicnewengland.org/rs/211151/scr/default.jpg)
 
-<zoomable-image type="jpg" src="https://images.historicnewengland.org/rs/211151/scr/default.jpg" alt="A Delftware chocolate pot with lid and handle decorate with flowers" caption="Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate."></zoomable-image>
-
 ## Boycotting tea in Boston
 
 It is no coincidence then that between 1768 and 1773 New England imported 81 percent of its cocoa beans from non-British sources—compared to 50 percent in New York and 40 percent in Philadelphia. After the Boston Tea Party in 1773, Bostonians began a boycott of tea products. Historian Benjamin Carp notes that there was speculation among Boston residents at the time that the city’s merchants only supported the boycott because they had large stores of coffee and chocolate that they wanted to sell. But nevertheless, drinking chocolate became a symbol in Boston of rebellion against the British crown at this time. It was vital that women participated in the tea boycott, because tea salons had been a social liberator earlier in the century—drinking chocolate was one option to replace tea in this way, and many elite women already enjoyed chocolate occasionally. Because cocoa beans were still easily available due to the lack of reliance on British West Indian colonies for their trade, Bostonians could continue to consume chocolate after trade with Britain was closed. But chocolate was not limited to New England in the burgeoning Revolution.
@@ -77,7 +75,5 @@ Historian Jared Ross Hardesty describes one instance of enslaved people using ch
 # Revolutionary imagery in the 19th century
 
 ![Trade card for Walter Baker & Co. Chocolate, undated.](https://images.historicnewengland.org/rs/262135/scr/default.jpg)
-
-<zoomable-image type="jpg" src="https://images.historicnewengland.org/rs/262135/scr/default.jpg" alt="An illustration of a woman in eighteenth century dress carrying a tray with a cup and saucer" caption="Trade card for Walter Baker & Co. Chocolate, undated."></zoomable-image>
 
 Baker’s Chocolate used this image in advertising starting in the 1860s. The original pastel drawing, The Chocolate Girl by Jean-Étienne Liotard, was made in 1744 and depicts a servant carrying a tray of drinking chocolate. Imagery like reinforces the association of this company with its founding during the American Revolution and harkens back, during the Industrial Revolution, to a period of "handmade” chocolate, made all the while in a factory near Boston. This image draws connections between chocolate as a symbol of liberty during the Revolutionary era and the success of Baker’s Chocolate. While Welsh was no longer a household name from the center of Boston, Baker remained preeminent from just outside, in its mill on the river.
