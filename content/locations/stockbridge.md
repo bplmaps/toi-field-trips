@@ -24,6 +24,7 @@ As the colonies expanded and hostilities between colonial powers grew, numerous 
 <iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#1627-Mahican" width="100%" height="500">
 </iframe>
 
+
 The decision to create a mission town at Stockbridge came from interactions between two leaders of the Mohicans, Konkapot and Umpachenee, and the missionary John Sergeant. With his unique approach to Christianity and willingness to work with the Mohican cultural customs, Sergeant made an impression on Konkapot and Umpachenee who both converted to Christianity and encouraged their people to do so as well.
 
 ![Sargent and Konkapot by Rockwell](https://arthive.com/res/media/img/oy800/work/ddc/285957@2x.webp)
