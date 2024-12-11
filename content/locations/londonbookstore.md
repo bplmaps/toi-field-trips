@@ -61,5 +61,4 @@ Scarlett Held is a fourth year history student at Northeastern University.
 “Massachusetts on the Eve of Revolution.” PBS. Accessed December 11, 2024. https://www.pbs.org/wgbh/americanexperience/features/patriotsday-massachusetts-eve-revolution/. 
 Orrison, Rob. “Everyday Life in Boston before the American Revolution.” American Battlefield Trust. Accessed December 11, 2024. https://www.battlefields.org/learn/articles/everyday-life-boston-american-revolution#:~:text=The%20vast%20majority%20of%20Boston’s,Boston%20by%20the%20mid%201770s. 
 
-###### About the author
-Scarlett Held is a senior at Northeastern University getting her degree in History.
+
