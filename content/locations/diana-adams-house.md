@@ -6,5 +6,5 @@ order: 0
 latitude: 42.366939
 longitude: -71.057995
 resources:
-- Clough's Atlas of Boston Neighborhoods based on Direct Tax Census of 1798
+- clough-atlas.md
 ---
