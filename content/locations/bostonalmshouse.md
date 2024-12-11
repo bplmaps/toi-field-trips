@@ -28,6 +28,9 @@ No records exist of the Boston Almshouse previous to 1733. The records of the Al
 
 Children also were born in the Almshouse in the Revolutionary era, an essential aspect of the life at the Almshouse. 
 
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#boston-almshouse" width="100%" height="500">
+</iframe>
+
 ## Binding Out and Warning Out
 
 While Boston may have represented the heart of Christian charity and European ideals, the actual life in the Almshouse, and those who were denied entry into the Almhouse because they were not Boston "residents" shows the darker underbelly of what it meant to be poor and have a relationship with the Almshouse and the Overseers of the Poor. While it may seem that the Workhouse for those who were "underserving" was the worst of what the Almshouse had to offer, the indenturing of children and warning out of transient people in poverty represents a darker element of what the Almshouse represented in Boston. 
