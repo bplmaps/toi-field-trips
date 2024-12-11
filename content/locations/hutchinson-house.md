@@ -5,8 +5,8 @@ description: The Hutchinson House was the family home of Thomas Hutchinson. Hutc
 order: 0
 latitude: 42.363992401908874 
 longitude: -71.0530531935197
-resources: Revolutionary Spaces
-- demo-resource
+resources: 
+- Revolutionary Spaces
 ---
 
 # The Hutchinson House #
