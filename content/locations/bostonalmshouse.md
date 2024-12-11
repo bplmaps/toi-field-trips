@@ -39,4 +39,4 @@ The binding out of children who had entered the Almshouse seeking help is an esp
 The map represents the variety of individuals from families of five to individual men and women who tried to receive help from the Boston Almshouse. The map also represents the wide variety of how far many individuals came from 
 
 
-<iframe src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=bef629be127a49318c6be36d6f0bb7a3" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+<iframe src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=bef629be127a49318c6be36d6f0bb7a3" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
