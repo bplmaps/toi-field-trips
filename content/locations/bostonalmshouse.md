@@ -1,5 +1,5 @@
 ---
-title: The Boston Almshouse and The American Revolution Era
+title: The Boston Almshouse
 metaDescription: A place-based exploration of the Boston Almshouse in the American Revolutionary Era. 
 description: 
 order: 0
