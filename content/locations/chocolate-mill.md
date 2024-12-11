@@ -1,5 +1,5 @@
 ---
-title: Boston Chocolate Mill
+title: Jonas Welsh's Chocolate Mill
 metaDescription: This is a chocolate mill in the North End of Boston.
 description: During the Revolutionary era, Jonas Welsh owned a chocolate mill at the corner of Margaret Lane and Sheaf Street in the North End of Boston.
 order: 0
@@ -29,7 +29,7 @@ Specific dates vary by source, but it is generally agreed that by the early eigh
 
 ## Sugar, tea, and chocolate
 
-Like sugar, molasses, and tea, cocoa beans were subject to the same taxation and regulation, though drinking chocolate was never as widely popular. Also like tea, chocolate was rarely consumed without a spoonful of sugar added, so the histories are inextricably linked. After the [Molasses Act](https://www.britannica.com/event/Molasses-Act) of 1733, it was easier (and cheaper) to smuggle molasses from the Caribbean islands colonized by other European countries than to import British West Indian sugar. The later Sugar Act of 1764 is often identified as the origin of North American resistance to Parliament, because Boston’s elite merchant class felt especially threatened. In the correspondence of Samuel and James Otis, historian Anne Blashke has identified an increase in their mentions of chocolate in the late 1760s, including making specific purchases out of their own pockets and ensuring that their chocolate stores were replenished as soon as they ran out. Earlier, demand for chocolate among Boston’s dry goods stores was limited.
+Like sugar, molasses, and tea, cocoa beans were subject to the same taxation and regulation, though drinking chocolate was never as widely popular. Also like tea, chocolate was rarely consumed without a spoonful of sugar added, so the histories are inextricably linked. After the [Molasses Act](https://www.britannica.com/event/Molasses-Act) of 1733, it was easier (and cheaper) to smuggle molasses from the Caribbean islands colonized by other European countries than to import British West Indian sugar. The later Sugar Act of 1764 is often identified as the origin of North American resistance to Parliament, because Boston’s elite merchant class felt especially threatened. In the correspondence of Samuel and James Otis, historian [Anne Blashke](https://www.wiley.com/en-it/Chocolate%3A+History%2C+Culture%2C+and+Heritage-p-9781118210222) has identified an increase in their mentions of chocolate in the late 1760s, including making specific purchases out of their own pockets and ensuring that their chocolate stores were replenished as soon as they ran out. Earlier, demand for chocolate among Boston’s dry goods stores was limited.
 
 ![Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate.](https://images.historicnewengland.org/rs/211151/scr/default.jpg)
 
