@@ -20,16 +20,14 @@ Built in 1686 after the previous Almshouse burnt down, the Almshouse during the 
 
 The Workhouse was one of the biggest buildings in Boston at that time, and was erected partially to take some of the burden off of the Almhouse, which was overcrowded. 
 
-![A map of Boston that includes the Almhouse/Workhouse.](https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:9s161953w/image_access_800.jpg)
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#boston-almshouse" width="100%" height="500">
+</iframe>
 
 In the American Revolutionary Era, Boston suffered unique circumstances that affected how it dealt with poverty, and as it became a social issue that the city had to confront. 
 
 No records exist of the Boston Almshouse previous to 1733. The records of the Almshouse vary in their nature 
 
 Children also were born in the Almshouse in the Revolutionary era, an essential aspect of the life at the Almshouse. 
-
-<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#boston-almshouse" width="100%" height="500">
-</iframe>
 
 ## Binding Out and Warning Out
 
