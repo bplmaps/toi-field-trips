@@ -127,6 +127,12 @@
   </div>
 </template>
 
+<style>
+  blockquote p {
+    font-style: normal;
+  }
+</style>
+
 <script>
 export default {
   name: 'LocationsSlug',

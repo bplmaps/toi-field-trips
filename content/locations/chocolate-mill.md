@@ -40,6 +40,8 @@ It is no coincidence then that between 1768 and 1773 New England imported 81 per
 <iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#chocolate-trade" width="100%" height="500">
 </iframe>
 
+---
+
 # Places of chocolate production during and after the Revolution
 
 Chocolate production underwent a transformation during the Revolutionary era. Prior, chocolate grinders had emphasized the origin places of their cocoa beans in their advertising to indicate the quality of the chocolate. Chocolate was produced by small businesses located centrally in Boston. As the Revolutionary era progressed, Boston emerged out of the four major chocolate-producing cities of New England (the others being New York, Philadelphia, and Newport, Rhode Island) as the only one that survived to sell quality chocolate in the aftermath. Both Welsh and Baker identified themselves as “Boston chocolate” to show that their manufacture in Boston indicated the quality of the chocolate in the Early Republic.
