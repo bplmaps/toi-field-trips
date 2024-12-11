@@ -7,6 +7,7 @@ latitude: 42.284231
 longitude: -73.322382
 resources:
 - footprints-of-our-ancestors
+- mission-house
 ---
 
 
