@@ -37,9 +37,11 @@ Henry quickly became a great military leader, rising through the ranks and worki
 
 ![](https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3b594m042/image_access_800.jpg)
 
-
+<zoomable-image type="static" src="https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3b594m042/image_access_800.jpg" alt="Knox Trail" caption="Henry Knox's Trail to Dorchester"></zoomable-image>
 
 When Henry brought the cannons back to the Boston area he fortified Dorchester Heights, a hilly area overlooking the city. The sight of that alone ended the Siege of Boston, after almost a year, without a single shot being fired. 
+
+<zoomable-image type="static" src="[https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3b594m042/image_access_800.jpg](https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3f462w858/image_access_800.jpg)" alt="Sight Lines to Boston" caption="Map of Boston during the War with possible sight lines"></zoomable-image>
 
 ![](https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3f462w858/image_access_800.jpg) 
 
