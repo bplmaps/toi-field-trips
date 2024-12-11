@@ -31,8 +31,8 @@ The decision to create a mission town at Stockbridge came from interactions betw
 *John Sargeant and Chief Konkapot* by Norman Rockwell
 
 In 1735 it was agreed that the Massachusetts colony would grant ownership of land along the Housatonic River, which had previously been the territory of Konkapot and Umpachenee, to create an “Indian Town” including a mission and a school to teach Christianity and English to the Mohicans. At the time, the town was still considered “the frontier,” a place beyond colonial civilization. The Massachusetts government selected white families and forced them to resettle there in an effort to help “civilize” Mohicans (Frazier, p.39-41). By 1739 the town had been incorporated under the name of Stockbridge, and in 1751, Sergeant’s successor, Rev. Jonathan Edwards, stated in a letter:
-> Here are, I suppose, about 200 _Indians_, old and young, of the
-proper _Stockbridge-Indians_ and of late a considerable number of the Mohawks have come hither from their own country (about 80 Miles N. W. from hence) to be instructed.
+
+> Here are, I suppose, about 200 _Indians_, old and young, of the proper _Stockbridge-Indians_ and of late a considerable number of the Mohawks have come hither from their own country (about 80 Miles N. W. from hence) to be instructed.
 
 It was clear Stockbridge was successful, and the “Stockbridge Indians” were committed to the town. This commitment to living in peace with the white colonists is made evident by their involvement in several wars prior to the American Revolution. In King Philip’s War (1675 – 1676) the “Stockbridge Indians” remained neutral rather than supporting other Indigenous Tribes. Later during King George’s War (1744 – 1748) they supported the English, which they did again during The French and Indian War (1754 – 1763).
 
