@@ -40,7 +40,7 @@ Henry quickly became a great military leader, rising through the ranks and worki
 When Henry brought the cannons back to the Boston area he fortified Dorchester Heights, a hilly area overlooking the city. The sight of that alone ended the Siege of Boston, after almost a year, without a single shot being fired. 
 
 ![Sight Lines to Boston](https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3f462w858/image_access_800.jpg) 
-
+<zoomable-image type="iiif" src="[https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd378k393](https://collections.leventhalmap.org/search/commonwealth:3f462w840/manifest)" alt="Sight Lines to Boston" caption="Made during the war, this map shows sightlines to the Boston Island"></zoomable-image>
 
 For Lucy, watching the British flee the city was a bittersweet moment, amongst the loyalists fleeing with the British army, was her family. Lucy now had no family left in the country, except for Henry and his brother. 
 As the war went on and Henry continued to prove himself, he became more and more important, travelling all over the colonies to fight for freedom. Henry urged Lucy not to join him as other wives did and to stay behind for her safety. Lucy was miserable and lonely, she was having a hard time raising her daughter alone. She tried to reconcile with the Fluckers, but no matter how many letters she sent to her family they did not want a relationship with their traitorous daughter. Lucy could not take it anymore and finally put her foot down, joining Henry in Mt. Vernon. There she took her place as the wife of a Founding Father, and developed a strong relationship with fellow wife Martha Washington. 
@@ -49,6 +49,9 @@ Henry Knox was vital to the creation of this new nation. After America won its i
 
 
 Without the War it would not have been simple for a man like Henry to raise his social status in such a profound way. The Boston that was forged during the Siege was not the same as the Boston Henry and Lucy grew up in. The population of Boston shrunk to a third of its original size during the Siege. While the war provided elevation for people such as Henry Knox, it also destroyed other Boston families. Loyalist families such as the Fluckers who were forced to flee and give up their life in America after generations. The Revolutionary War provided the opportunity for people like Henry to shake up the generational wealth and social order that existed throughout Boston, and provided some form of small scale social revolution.
+
+###### About the author
+Scarlett Held is a fourth year history student at Northeastern University. 
 
 ###### References
 “Henry Knox.” George Washington’s Mount Vernon. Accessed December 11, 2024. https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/henry-knox. 
