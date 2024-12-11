@@ -12,8 +12,6 @@ resources:
 # The London Book Store
 ## The Story of Henry and Lucy Knox and Social Dynamics in Revolutionary Boston
 
-![](https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:3f462v50z/image_access_800.jpg)
-
 <iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#bookstore" width="100%" height="500">
 </iframe>
 
