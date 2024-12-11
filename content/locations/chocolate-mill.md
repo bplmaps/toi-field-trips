@@ -6,7 +6,8 @@ order: 0
 latitude: 42.36617305911067
 longitude: -71.05562085737431
 resources:
-- demo-resource
+- clough-atlas
+- ECDA
 ---
 In pre-Revolution Boston, industry and manufacturing had two forms: mills outside of the city and small workshops on the peninsula. The first grist mills for grinding grain on the Charles and Neponset rivers opened within four years of Boston’s founding in 1630. The flow of the rivers provided power to run the machinery, which was not possible within Boston proper. On the Shawmut Peninsula, manufacturing, including chocolate grinding, occurred in the bustle of the city in neighborhoods like the North End filled with homes and businesses close to the waterfront where unprocessed goods arrived in ships from abroad.
 
