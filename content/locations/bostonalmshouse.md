@@ -8,7 +8,7 @@ longitude: -71.0635
 resources:
 - demo-resource
 ---
-# The Boston Almshouse in the American Revolution
+# The Boston Almshouse and the American Revolution
 
 Boston is where the American Revolution began. It is also where the first Almshouse in the United States was founded in 1662. The rest of colonial Massachusetts followed in 1744, when the colony required all townships to create a group of men to help the poor, called the Overseers of the Poor, and to have them create Almshouses for the poor of their towns. 
 
