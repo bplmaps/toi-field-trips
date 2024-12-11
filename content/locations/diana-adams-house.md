@@ -1,7 +1,10 @@
+---
 title: Diana Adams's House
-metaDescription: This is a home that was owned by Diana Adams in the North End until 1803.
-description: 
-latitude: 
-longitude: 
+metaDescription: This was the home of Diana Adams on Prince Street in the North End.
+description: Women were important to the development and spread of revolutionary ideology. 
+order: 0
+latitude: 42.366939
+longitude: -71.057995
 resources:
-- clough-atlas
+- Clough's Atlas of Boston Neighborhoods based on Direct Tax Census of 1798
+---
