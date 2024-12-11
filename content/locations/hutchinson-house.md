@@ -1,11 +1,11 @@
 ---
 title: The Hutchinson House
 metaDescription: This is a test.
-description: Copley Square is not actually very important for the American Revolution. This is just a test page.
+description: The Hutchinson House was the family home of Thomas Hutchinson. Hutchinson served as the Chief Justince, Lieutenant Governor, then Governor of the Massahcusetts Bay Colony. A decade before the American Revolution officially began, the Hutchinson home was ransacked by rioters who were angry over the Stamp Act of 1765, which served as a sign of the troubles to come.
 order: 0
-latitude: 
-longitude: -71.07651991800763
-resources:
+latitude: 42.363992401908874 
+longitude: -71.0530531935197
+resources: Revolutionary Spaces
 - demo-resource
 ---
 
