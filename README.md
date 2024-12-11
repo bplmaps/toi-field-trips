@@ -29,7 +29,7 @@ You’ll need to replace the `title`, `metaDescription`, and `description` field
 
 You will also need to fill in the `latitude` and `longitude` fields for where you would like the single pinned location of your stop to appear on the map. There are many different online tools for finding latitude and longitude points, but the simplest is to go to Google Maps, right-click on the location where you want to place a pin, and then copy the coordinate pair from the drop-down menu where you have right clicked.
 
-After you’ve populated the frontmatter, create a few Markdown headers in the body content area of the Markdown file, and then commit it to the repository. After the site rebuilds (within 5 minutes), you should see the new page created at <https://hist-7250-amrev.netlify.app/locations/your-location>. 
+After you’ve populated the frontmatter, create a few Markdown headers in the body content area of the Markdown file, and then commit it to the repository. After the site rebuilds (within 5 minutes), you should see the new page created at <https://hist-7250-amrev.netlify.app/>. 
 
 ### Adding zoomable images
 
