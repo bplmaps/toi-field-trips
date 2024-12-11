@@ -1,5 +1,5 @@
 ---
-title: Revolutionary Education
+title: Boston Latin School
 metaDescription: This is the location of the Boston Latin School during the American Revolution.
 description: In the lead-up to the American Revolution, the Boston Latin School educated Boston's youth on academic topics and revolutionary ideology.
 order: 0
