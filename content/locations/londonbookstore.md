@@ -26,6 +26,7 @@ While the American Revolution was not a complete social revolution, things staye
 
 #### Henry Knox
 Unlike the rest of his revolutionary peers and fellow Founding Fathers, Henry Knox was not upper class or well educated. He grew up in poverty in the same city many of his future colleagues were raised with wealth. Henry Knox was one of ten kids born to immigrant parents. His father died or left the family when Henry was nine, forcing Henry to drop out of school to care for his mother and siblings. Henry became an apprentice bookbinder and by the age of 21, Henry opened up his own store, the London Book Store. He sold an impressive selection of books from England and because of that, made a name for himself as a common destination for Boston aristocrats. Despite his proximity to the elite and his studying of their mannerisms, Henry did not have the official education his clients had. Everything he knew he had taught himself, including his vast knowledge on war and military strategy. In 1772 Henry joined the Boston Grenadier Corps, a local militia group outside of Boston. His military knowledge made it obvious to people on both sides of the growing conflict that he would be an important addition to any army. It was at the London Book Store in 1773 where Henry first met Lucky Flucker, the girl who would later become his wife.
+
 ![](https://www.battlefields.org/sites/default/files/styles/squarish/public/Lucy-Flucker-Knox3-300x300.jpeg?h=d3934494&itok=XUrL2E_h)
 
 #### Lucy Flucker 
