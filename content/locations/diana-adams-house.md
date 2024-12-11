@@ -10,3 +10,9 @@ resources:
 ---
 # Introduction
 As revolutionary thoughts and ideologies grew in Boston as the end of the 18th century neared, these revolutionary ideals grew beyond the American economy and politics into the [domestic sphere](https://ejournals.bc.edu/index.php/elements/article/view/8906). Democracy, equality, and independence as beliefs started to find their way into the social order of women. Republican motherhood enabled women to be educators of the next generation of great American citizens, while other women found independence through property ownership. Women's lives changed as they reached beyond the traditional domestic space.
+
+## Women in 18th Century Boston
+
+## Diana Adams
+
+## Women in Clough's Atlas
