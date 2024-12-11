@@ -12,6 +12,9 @@ resources:
 As revolutionary thoughts and ideologies grew in Boston as the end of the 18th century neared, these revolutionary ideals grew beyond the American economy and politics into the [domestic sphere](https://ejournals.bc.edu/index.php/elements/article/view/8906). Democracy, equality, and independence as beliefs started to find their way into the social order of women. Republican motherhood enabled women to be educators of the next generation of great American citizens, while other women found independence through property ownership. Women's lives changed as they reached beyond the traditional domestic space.
 
 ## Women in 18th Century Boston
+Women in the 18th century were traditionally regarded in relation to their husbands or the men in their families, but as the revolutionary era progressed women had chances for independence within their lives. 
+
+![Mrs. Ezekiel Goldthwait (Elizabeth Lewis)](https://collections.mfa.org/internal/media/dispatcher/1017854/resize%3Aformat%3Dthumbnail) ![Mrs. James Smith (Elizabeth Murray)](https://collections.mfa.org/internal/media/dispatcher/842666/resize%3Aformat%3Dthumbnail)
 
 ## Diana Adams
 ![Clough's Atlas of Boston neighborhoods based on the Direct Tax Census of 1798.](https://www.masshist.org/database/images/5052_block200_work_lg.jpg)
