@@ -14,5 +14,8 @@ As revolutionary thoughts and ideologies grew in Boston as the end of the 18th c
 ## Women in 18th Century Boston
 
 ## Diana Adams
+![Clough's Atlas of Boston neighborhoods based on the Direct Tax Census of 1798.](https://www.masshist.org/database/images/5052_block200_work_lg.jpg)
+Section of Clough's Atlas of Boston neighborhoods based on the Direct Tax Census of 1798 which depicts the property owned by Diana Adams on Prince Street.
+
 
 ## Women in Clough's Atlas
