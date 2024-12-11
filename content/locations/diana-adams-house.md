@@ -6,5 +6,5 @@ order: 0
 latitude: 42.366939
 longitude: -71.057995
 resources:
-- clough-atlas.md
+- clough-atlas 
 ---
