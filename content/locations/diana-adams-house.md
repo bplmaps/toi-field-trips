@@ -1,7 +1,7 @@
 ---
 title: Diana Adams's House
-metaDescription: This was the home of Diana Adams on Prince Street in the North End.
-description: Women were important to the development and spread of revolutionary ideology. 
+metaDescription: This was the home of Diana Adams on Prince Street along the Charles River.
+description: Diana Adams owned property on Prince Street in Boston's North End, as represented in Clough's Atlas of Boston neighborhoods based on the Direct Tax Census of 1798.
 order: 0
 latitude: 42.366939
 longitude: -71.057995
