@@ -63,7 +63,8 @@ In the immediate aftermath of the Revolution, appreciation was expressed directl
 
 It seems clear that despite the ongoing loyalty of the “Stockbridge Indians” and Aupaumut’s continued diplomatic work, the new US government was unconcerned with reciprocating any assistance. By the early 1800s, the “Stockbridge Indians” had moved again to Indiana, only to find out the land had already been taken. They eventually settled in Wisconsin in 1822, where their descendants remain today, over 1100 miles away from the town their ancestors founded ([Stockbridge-Munsee Band of Mohicans]( https://www.mohican.com/brief-history/)). An 1855 Map of Stockbridge shows almost no trace of the Mohicans who started the town.
 
-(Insert Map Viewer)
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#Stockbridge-1855" width="100%" height="500">
+</iframe>
 
 # Acknowledgement, Reclamation, & The Future
 Acknowledgement of the “Stockbridge Indians” role in the revolution has never been forgotten by scholars but has also not been widely spread to the public in the ways that other aspects of the Revolution have. In the town of Stockbridge you can visit the additional sites below:
@@ -97,15 +98,15 @@ There has been continued and increasing involvement in the town by the Stockbrid
 Perhaps the biggest achievement was the [2023 grant to purchase back 351 acres of ancestral land in Stockbridge](https://www.wbur.org/news/2023/08/31/stockbridge-munsee-mohicans-berkshires-land-monument-mountain-grants).  The future may see a much bigger presence of the Stockbridge-Munsee band of Mohicans in the area, but as the 250th anniversary of the country nears, the role of the “Stockbridge Indians” should be honored.
 
 # References
-Colin G. Calloway, The American Revolution in Indian Country: Crisis and Diversity in Native American Communities. (Cambridge University Press, 1995).
+Colin G. Calloway, *The American Revolution in Indian Country: Crisis and Diversity in Native American Communities*. (Cambridge University Press, 1995).
 
-Patrick Frazier, The Mohicans of Stockbridge. (University of Nebraska Press, 1992).
+Patrick Frazier, *The Mohicans of Stockbridge*. (University of Nebraska Press, 1992).
 
-Hendrick Aupaumut. A Narrativeof an Embassy to the Western Indians. reproduced in Memoirs of the Historical Society of Pennsylvania. Historical Society of Pennsylvania eds. (M’Carty and Davis, 1827). http://archive.org/details/memoirshistoric06penngoog.
+Hendrick Aupaumut. *A Narrative of an Embassy to the Western Indians* reproduced in *Memoirs of the Historical Society of Pennsylvania*. Historical Society of Pennsylvania eds. (M’Carty and Davis, 1827). http://archive.org/details/memoirshistoric06penngoog.
 
 Bryan Rindfleisch, “The Stockbridge-Mohican Community, 1775-1783.” Journal of the American Revolution, February 3, 2016. https://allthingsliberty.com/2016/02/the-stockbridge-mohican-community-1775-1783/.
 
-Ethan A.Schmidt, Native Americans in the American Revolution: How the War Divided, Devastated, and Transformed the Early American Indian World. (Praeger, 2014).
+Ethan A.Schmidt, *Native Americans in the American Revolution: How the War Divided, Devastated, and Transformed the Early American Indian World*. (Praeger, 2014).
 
 
 
