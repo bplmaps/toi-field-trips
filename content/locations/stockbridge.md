@@ -6,12 +6,9 @@ order: 0
 latitude: 42.284231
 longitude: -73.322382
 resources:
-- demo-resource
+- footprints-of-our-ancestors
 ---
 
-
-
-# Introduction
 
 ![Stockbridge Indian Burial Monument](https://cdn.loc.gov/service/pnp/det/4a20000/4a23000/4a23800/4a23836r.jpg)
 
