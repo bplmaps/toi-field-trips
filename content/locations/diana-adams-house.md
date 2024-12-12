@@ -39,9 +39,15 @@ As a woman with independent wealth from her husband, Elizabeth Murray commission
 <zoomable-image type="static-external" src="https://www.masshist.org/database/images/5052_block200_work_lg.jpg" alt="A map from Clough's Atlas of Boston neighborhoods from the Massachusetts Historical Society" caption="Clough's map of the 200 Block neighborhood in the North End."></zoomable-image>
 Clough's map of the 200 Block in the North End neighborhood between Prince Street and Charter Street.
 
-A way for women to gain independence outside of owning a business was to own property. Women property owners in the 18th century could have inherited their property from a male family member or their late husband, if they did not have access to their own wealth like Elizabeth Murray did as a merchant. Diana Adams appears in [Clough's Atlas of Boston neighborhoods](https://www.masshist.org/database/1761) as owning properties on Prince Street next to the Charles River. She also appears in Boston's city directories 
+A way for women to gain independence outside of owning a business was to own property. Women property owners in the 18th century could have inherited their property from a male family member or their late husband, if they did not have access to their own wealth like Elizabeth Murray did as a merchant. Diana Adams appears in [Clough's Atlas of Boston neighborhoods](https://www.masshist.org/database/1761) as owning properties on Prince Street next to the Charles River. She also appears in Boston's city directories in 1798 and 1800 as living on Prince Street.
 
-![Birth record of Diana and Thomas Adams's daughter Diana Adams in 1775](https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/apid:TH-267-11107-56426-45/thumb_p200.jpg)
+![1798 Boston City Directory](https://ia802203.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/bd-1798/BD_1798_jp2.zip&file=BD_1798_jp2/BD_1798_0007.jp2&id=bd-1798&scale=16&rotate=0)
+John West's 1798 Boston City Directory.
+
+In an earlier directory from 1796, Thomas Adams was listed as living on Prince Street. A list of births in 
+
+<zoomable-image type="static-external" src="https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/apid:TH-267-11107-56426-45/thumb_p200.jpg" alt="Birth record of Diana Adams, daughter of Diana and Thomas Adams from FamilySearch" caption="Birth record of Diana and Thomas Adams's daughter, Diana Adams"></zoomable-image>
+Birth record of Diana Adams, daughter of Diana and Thomas Adams.
 
 
 ## Women in Clough's Atlas
