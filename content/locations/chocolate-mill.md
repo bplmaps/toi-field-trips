@@ -12,6 +12,9 @@ resources:
 ---
 In pre-Revolution Boston, industry and manufacturing had two forms: mills outside of the city and small workshops on the peninsula. The [first grist mills](https://www.jstor.org/stable/25080477) for grinding grain on the Charles and Neponset rivers opened within four years of Boston’s founding in 1630. The flow of the rivers provided power to run the machinery, which was not possible within Boston proper. On the Shawmut Peninsula, manufacturing, including chocolate grinding, occurred in the bustle of the city in neighborhoods like the North End filled with homes and businesses close to the waterfront where unprocessed goods arrived in ships from abroad.
 
+<zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xk60z" alt="Mills on a river in Maine" caption="Mills on the Mechias River in Maine in 1777. The mills near Boston may have looked something like these."></zoomable-image>
+*Mills on the Mechias River in Maine in 1777. The mills near Boston may have looked something like these.*
+
 # What is the history of chocolate?
 
 Humans began consuming chocolate at least 5,300 years ago in the region now known as [Ecuador](https://www.science.org/content/article/world-s-oldest-chocolate-was-made-5300-years-ago-south-american-rainforest). Chocolate was introduced to Europe by the Spanish, though they tried to keep their recipes secret. But the recipes were first printed in London in English in 1640, and chocolate quickly became popular among the elite. Chocolate was consumed primarily as a drink, so it was sold as a powder or paste made from cocoa beans, which would be mixed with water in the home. Cocoa beans came to England through the British West Indian colonies, but other colonizing nations included cocoa beans in their trade systems as well. The Caribbean’s proximity to North America meant that cocoa beans also made their way to New England for processing.
@@ -47,6 +50,7 @@ It is no coincidence then that between 1768 and 1773 New England imported 81 per
 Chocolate production underwent a transformation during the Revolutionary era. Prior, chocolate grinders had emphasized the origin places of their cocoa beans in their advertising to indicate the quality of the chocolate. Chocolate was produced by small businesses located centrally in Boston. As the Revolutionary era progressed, Boston emerged out of the four major chocolate-producing cities of New England (the others being New York, Philadelphia, and Newport, Rhode Island) as the only one that survived to sell quality chocolate in the aftermath. Both Welsh and Baker identified themselves as “Boston chocolate” to show that their manufacture in Boston indicated the quality of the chocolate in the Early Republic.
 
 <zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z77w" alt="A View of Boston taken on the road to Dorchester" caption="The view of Boston for someone travelling to or from Dorchester in 1776, drawn by Wm. Perrie and engraved by James Newton"></zoomable-image>
+*The view of Boston for someone travelling to or from Dorchester in 1776, drawn by Wm. Perrie and engraved by James Newton*
 
 ## Welsh’s Boston Chocolate
 
@@ -70,6 +74,9 @@ The chocolate mill in Dorchester identified above was [Baker’s Chocolate](http
 Consumption of drinking chocolate in Revolutionary Boston is inextricably tied to enslavement and colonization in multiple ways. 
 
 ## The Caribbean
+
+<zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f462x83x" alt="Title page of The West Indian Atlas (1783) with a scene of people and ships on a beach" caption="Frontispiece of The West Indian Atlas (1783). This image depicts British colonial interference in the Caribbean."></zoomable-image>
+*Frontispiece of The West Indian Atlas (1783). This image depicts British colonial interference in the Caribbean.*
 
 Enslaved labor in the Caribbean provided the cocoa beans and sugar that New Englanders used to make drinking chocolate. Regardless of a Bostonian’s direct ownership of another person, anyone who consumed chocolate was able to do so because of the labor of enslaved people. Historian [Benjamin Carp](https://yalebooks.yale.edu/book/9780300178128/defiance-of-the-patriots/) has also examined the hypocrisy of the tea boycott of 1773 in relation to the lack of action against slavery in pre-Revolution Boston. If the early Americans refused to drink tea in the name of liberty for themselves, it is telling that they would not also boycott sugar in an action against slavery. Carp suggests that Bostonians were aware of the contradiction to their action and inaction. 
 
