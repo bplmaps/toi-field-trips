@@ -47,10 +47,10 @@ The Red Lion Inn c.1890
 ![Red Lion Inn 2012](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Stockbridge%2C_MA_-_Red_Lion_Inn_02.jpg/1920px-Stockbridge%2C_MA_-_Red_Lion_Inn_02.jpg)
 The Red Lion Inn, 2012, photo by [Joe Mabel](https://commons.wikimedia.org/w/index.php?curid=19118686)
 
-While “Stockbridge Indians” joined the militia directly serving at the Siege of Boston and in numerous later battles, one of their biggest contributions was diplomacy (Schmidt, p.121). Their Location in a “frontier region” close to the non-Christianized nations allowed for the “Stockbridge Indians” to operate in both worlds.  A letter from the Virginia Gazette in 1775 recounts:
+While “Stockbridge Indians” joined the militia directly serving at the Siege of Boston and in numerous later battles, one of their biggest contributions was diplomacy (Schmidt, p.121). Their location in a “frontier region” close to the non-Christianized nations allowed for the “Stockbridge Indians” to operate in both worlds.  A letter from the Virginia Gazette in 1775 recounts:
 >A firm foundation now turns up to view, for the influence of the Stockbridge Indians among the six nations, and matters stand well with the Canadian Indians… The Canadian Indians farther told our Indians, that if they did fight at all they would fight against the regulars.
 
-Below is a list of names of the “Stockbridge Indians” who joined the Revolutionary War, courtesy of the Stockbridge Archives. On the list are Abram Nauaumptonky and William Notonksin, who in 1775 would become the first two indigenous men to die in the revolution, having been mistakenly shot by American soldiers during a skirmish with the British near Cambridge (Frazier, p.200).
+Below is a list of names of the “Stockbridge Indians” who joined the Revolutionary War, courtesy of the Stockbridge Archives. On the list are Abram Nauaumptonky and William Notonksin, who in 1775 would become the first two Indigenous men to die in the revolution, having been mistakenly shot by American soldiers during a skirmish with the British near Cambridge (Frazier, p.200).
 
 ![List of Stockbridge Indians in Revolutionary War](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Stockbridge_Militia_List_Large.jpg)
 
@@ -61,7 +61,7 @@ Both of these letters make clear the value placed on the “Stockbridge Indians�
 
 # Post-War Displacement
 
-In the immediate aftermath of the Revolution, appreciation was expressed directly by George Washington in the form of an ox roast in 1783, but even then, the “Stockbridge Indians” were becoming outsiders in their own town. In 1783, only two selectmen were indigenous men, and by 1784 there were none. By the following year the majority of the “Stockbridge Indians” had relocated to NY to live with the Oneida forming New Stockbridge (Calloway, p. 100-102). But again, the NY government was pressuring Indigenous Peoples to leave the state and by the 1790s problems had arisen again. In a narrative of his diplomatic work with western Indigenous Nations Hendrick Aupaumut notes:
+In the immediate aftermath of the Revolution, appreciation was expressed directly by George Washington in the form of an ox roast in 1783, but even then, the “Stockbridge Indians” were becoming outsiders in their own town. In 1783, only two selectmen were Indigenous men, and by 1784 there were none. By the following year the majority of the “Stockbridge Indians” had relocated to NY to live with the Oneida forming New Stockbridge (Calloway, p. 100-102). But again, the NY government was pressuring Indigenous Peoples to leave the state and by the 1790s problems had arisen again. In a narrative of his diplomatic work with western Indigenous Nations Hendrick Aupaumut notes:
 >In all my arguments with these Indians, I have as it were oblige to say nothing with regard of the conduct of Yorkers, how they cheat my fathers, how they taken our lands Unjustly, and how my fathers were groaning as it were to their graves, in losing their lands for nothing, although they were faithful friends to the Whites (Historical Society of Penn., p.128)
 
 It seems clear that despite the ongoing loyalty of the “Stockbridge Indians” and Aupaumut’s continued diplomatic work, the new US government was unconcerned with reciprocating any assistance. By the early 1800s, the “Stockbridge Indians” had moved again to Indiana, only to find out the land had already been taken. They eventually settled in Wisconsin in 1822, where their descendants remain today, over 1100 miles away from the town their ancestors founded ([Stockbridge-Munsee Band of Mohicans]( https://www.mohican.com/brief-history/)). An 1855 Map of Stockbridge shows almost no trace of the Mohicans who started the town.
@@ -78,7 +78,7 @@ The grave of Konkapot, with a dedication to other "Housatonic Indians".
 
 ![The grave of two Stockbridge Women](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Sarah_and_Roxy_Grave.jpg)
 
-The grave of Sarah Towsey and Roxy Seebuck, two indigenous women.
+The grave of Sarah Towsey and Roxy Seebuck, two Indigenous women.
 
 ![Chime Tower](https://cdn.loc.gov/service/pnp/highsm/57800/57862r.jpg)
 
@@ -88,7 +88,7 @@ The Children's Chime Tower, Library of Congress, 2019. The plaque above the door
 
 The Mission House, built by John Sergeant c.1742. Now a museum with artifacts from the "Stockbridge Indians."
 
-In their town there is no monument to their service and sacrifice, but in NY a [1906 monument](https://nycemetery.wordpress.com/2022/03/01/stockbridge-indian-burial-ground/) marks the mass grave of fallen “Stockbridge Indians” in Van Cortlandt Park, and a statue of Daniel Nimham, a Wappinger sachem and Stockbridge Militia leader, was [erected in Fishkill in 2022](https://midhudsonnews.com/2022/05/23/town-of-fishkill-to-dedicate-statue-to-sachem-daniel-nimham/). 
+In their town there is no monument to their service and sacrifice, but in NY a [1906 memorial](https://nycemetery.wordpress.com/2022/03/01/stockbridge-indian-burial-ground/) marks the mass grave of fallen “Stockbridge Indians” in Van Cortlandt Park, and a statue of Daniel Nimham, a Wappinger sachem and Stockbridge Militia leader, was [erected in Fishkill in 2022](https://midhudsonnews.com/2022/05/23/town-of-fishkill-to-dedicate-statue-to-sachem-daniel-nimham/). 
 
 Most notably the Museum of the American Revolution in Philadelphia has no permanent information about the “Stockbridge Indians” though they have named exhibit halls to honor the Oneida who were also allies in the war.
 
@@ -101,7 +101,7 @@ There has been continued and increasing involvement in the town by the Stockbrid
 Perhaps the biggest achievement was the [2023 grant to purchase back 351 acres of ancestral land in Stockbridge](https://www.wbur.org/news/2023/08/31/stockbridge-munsee-mohicans-berkshires-land-monument-mountain-grants).  The future may see a much bigger presence of the Stockbridge-Munsee band of Mohicans in the area, but as the 250th anniversary of the country nears, the role of the “Stockbridge Indians” should be honored.
 
 
-*Tamara Uhaze is a research libararian at Northeastern University. She holds graduate degrees in Information Science and Ancient History.*
+*Tamara Uhaze is a research libararian at Northeastern University with graduate degrees in Information Science and Ancient History.*
 
 # References
 Colin G. Calloway, *The American Revolution in Indian Country: Crisis and Diversity in Native American Communities*. (Cambridge University Press, 1995).
