@@ -36,8 +36,12 @@ During this era, some women chose not to be limited to a life only within the ho
 As a woman with independent wealth from her husband, Elizabeth Murray commissioned Copley to paint her portrait. She stands alone in the painting and there is no accompanying portrait of her husband, emphasizing her independent lifestyle outside of the home. Murray is posed standing and looking at the viewer, demonstrating her ability to command power through her success as a woman business owner. The outdoor scene behind her contrasts the blank background in Mrs. Ezekiel Goldthwait's portrait. Murray's outdoor background scene symbolizes her role outside of the home that Mrs. Ezekiel Goldthwait may have been confined within. Similar to the Goldthwait portrait, Murray is holding fruit in her hands against her body. Instead of symbolizing the colonial women's virtue of fertility, the fruit in Murray's portrait possibly represents the wealth she successfully created for herself through her importing and selling of goods.  
 
 ## Diana Adams
-![Clough's Atlas of Boston neighborhoods based on the Direct Tax Census of 1798.](https://www.masshist.org/database/images/5052_block200_work_lg.jpg)
-Section of Clough's Atlas of Boston neighborhoods based on the Direct Tax Census of 1798 which depicts the property owned by Diana Adams on Prince Street.
+<zoomable-image type="static-external" src="https://www.masshist.org/database/images/5052_block200_work_lg.jpg" alt="A map from Clough's Atlas of Boston neighborhoods from the Massachusetts Historical Society" caption="Clough's map of the 200 Block neighborhood in the North End."></zoomable-image>
+Clough's map of the 200 Block in the North End neighborhood between Prince Street and Charter Street.
+
+A way for women to gain independence outside of owning a business was to own property. Women property owners in the 18th century could have inherited their property from a male family member or their late husband, if they did not have access to their own wealth like Elizabeth Murray did as a merchant. Diana Adams appears in [Clough's Atlas of Boston neighborhoods](https://www.masshist.org/database/1761) as owning properties on Prince Street next to the Charles River. She also appears in Boston's city directories 
+
+![Birth record of Diana and Thomas Adams's daughter Diana Adams in 1775](https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/apid:TH-267-11107-56426-45/thumb_p200.jpg)
 
 
 ## Women in Clough's Atlas
