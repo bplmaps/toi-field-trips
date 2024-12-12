@@ -15,6 +15,8 @@ In pre-Revolution Boston, industry and manufacturing had two forms: mills outsid
 <zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xk60z" alt="Mills on a river in Maine" caption="Mills on the Mechias River in Maine in 1777. The mills near Boston may have looked something like these."></zoomable-image>
 *Mills on the Mechias River in Maine in 1777. The mills near Boston may have looked something like these.*
 
+---
+
 # What is the history of chocolate?
 
 Humans began consuming chocolate at least 5,300 years ago in the region now known as [Ecuador](https://www.science.org/content/article/world-s-oldest-chocolate-was-made-5300-years-ago-south-american-rainforest). Chocolate was introduced to Europe by the Spanish, though they tried to keep their recipes secret. But the recipes were first printed in London in English in 1640, and chocolate quickly became popular among the elite. Chocolate was consumed primarily as a drink, so it was sold as a powder or paste made from cocoa beans, which would be mixed with water in the home. Cocoa beans came to England through the British West Indian colonies, but other colonizing nations included cocoa beans in their trade systems as well. The Caribbean’s proximity to North America meant that cocoa beans also made their way to New England for processing.
@@ -35,6 +37,7 @@ Specific dates vary by source, but it is generally agreed that by the early eigh
 Like sugar, molasses, and tea, cocoa beans were subject to the same taxation and regulation, though drinking chocolate was never as widely popular. Also like tea, chocolate was rarely consumed without a spoonful of sugar added, so the histories are inextricably linked. After the [Molasses Act](https://www.britannica.com/event/Molasses-Act) of 1733, it was easier (and cheaper) to smuggle molasses from the Caribbean islands colonized by other European countries than to import British West Indian sugar. The later Sugar Act of 1764 is often identified as the origin of North American resistance to Parliament, because Boston’s elite merchant class felt especially threatened. In the correspondence of Samuel and James Otis, historian [Anne Blashke](https://www.wiley.com/en-it/Chocolate%3A+History%2C+Culture%2C+and+Heritage-p-9781118210222) has identified an increase in their mentions of chocolate in the late 1760s, including making specific purchases out of their own pockets and ensuring that their chocolate stores were replenished as soon as they ran out. Earlier, demand for chocolate among Boston’s dry goods stores was limited.
 
 ![Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate.](https://images.historicnewengland.org/rs/211151/scr/default.jpg)
+*Chocolate pots like this one from circa 1720-1750 were used for serving drinking chocolate.*
 
 ## Boycotting tea in Boston
 
@@ -50,7 +53,7 @@ It is no coincidence then that between 1768 and 1773 New England imported 81 per
 Chocolate production underwent a transformation during the Revolutionary era. Prior, chocolate grinders had emphasized the origin places of their cocoa beans in their advertising to indicate the quality of the chocolate. Chocolate was produced by small businesses located centrally in Boston. As the Revolutionary era progressed, Boston emerged out of the four major chocolate-producing cities of New England (the others being New York, Philadelphia, and Newport, Rhode Island) as the only one that survived to sell quality chocolate in the aftermath. Both Welsh and Baker identified themselves as “Boston chocolate” to show that their manufacture in Boston indicated the quality of the chocolate in the Early Republic.
 
 <zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h149z77w" alt="A View of Boston taken on the road to Dorchester" caption="The view of Boston for someone travelling to or from Dorchester in 1776, drawn by Wm. Perrie and engraved by James Newton"></zoomable-image>
-*The view of Boston for someone travelling to or from Dorchester in 1776, drawn by Wm. Perrie and engraved by James Newton*
+*The view of Boston for someone traveling to or from Dorchester in 1776, drawn by Wm. Perrie and engraved by James Newton*
 
 ## Welsh’s Boston Chocolate
 
@@ -95,6 +98,7 @@ Historian [Jared Ross Hardesty](https://nyupress.org/9781479816149/unfreedom/) d
 # Revolutionary imagery in the 19th century
 
 ![Trade card for Walter Baker & Co. Chocolate, undated.](https://images.historicnewengland.org/rs/262135/scr/default.jpg)
+*Trade card for Walter Baker & Co. Chocolate, undated but likely from the 1860s or later.*
 
 Baker’s Chocolate used this image in advertising starting in the 1860s. The original pastel drawing, *The Chocolate Girl* by [Jean-Étienne Liotard](https://www.apollo-magazine.com/how-liotards-chocolate-girl-charmed-the-city-of-dresden/), was made in 1744 and depicts a servant carrying a tray of drinking chocolate. Imagery like reinforces the association of this company with its founding during the American Revolution and harkens back, during the Industrial Revolution, to a period of "handmade” chocolate, made all the while in a factory near Boston. This image draws connections between chocolate as a symbol of liberty during the Revolutionary era and the success of Baker’s Chocolate. While Welsh was no longer a household name from the center of Boston, Baker remained preeminent from just outside, in its mill on the river.
 
