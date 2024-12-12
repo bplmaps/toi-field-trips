@@ -23,3 +23,4 @@ Section of Clough's Atlas of Boston neighborhoods based on the Direct Tax Census
 
 ## Women in Clough's Atlas
 <zoomable-image type="static-external" src="https://www.masshist.org/database/images/5052_leaffront_work_lg.jpg" alt="Overview Map from Clough's Atlas of Boston neighborhoods" caption="Overview map within Clough’s Atlas of Boston neighborhoods."></zoomable-image>
+Overview map within Clough's Atlas of Boston neighborhoods. 
