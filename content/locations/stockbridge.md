@@ -19,7 +19,7 @@ Standing before you is a monument marking the ancestral burying place of the Muh
 
 # Becoming Rebel Allies
 
-As the colonies expanded and hostilities between colonial powers grew, numerous Indigenous Nations found themselves in the crosshairs. Explore the map below to see where some members of the“Stockbridge Indians” were residing prior to their adoption of christianity and the founding of Stockbridge as a mission town.
+As the colonies expanded and hostilities between colonial powers grew, numerous Indigenous Nations found themselves in the crosshairs. Explore the map below to see where some members of the“Stockbridge Indians” were residing prior to their adoption of Christianity and the founding of Stockbridge as a mission town.
 
 <iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#1627-Mahican" width="100%" height="500">
 </iframe>
@@ -36,7 +36,7 @@ In 1735 it was agreed that the Massachusetts colony would grant ownership of lan
 
 It was clear Stockbridge was successful, and the “Stockbridge Indians” were committed to the town. This commitment to living in peace with the white colonists is made evident by their involvement in several wars prior to the American Revolution. In King Philip’s War (1675 – 1676) the “Stockbridge Indians” remained neutral rather than supporting other Indigenous Tribes. Later during King George’s War (1744 – 1748) they supported the English, which they did again during The French and Indian War (1754 – 1763).
 
-Early on the “Stockbridge Indians” held important positions in the town. Konkapot and Umpachenee helped select the town government after incorporation (Frazier, p. 47). However, after the French and Indian War more white colonists began to settle in the town and land issues began to arise (Calloway, p. 89). Historian Bryan Rindfleisch suggests that along with the pressure of living in a town which supported the Sons of Liberty, the lack of English support for the “Stockbridge Indians” during these land disputes may have had a hand in their decision to side with the rebels. (Rindfleisch).
+Early on the “Stockbridge Indians” held important positions in the town. Konkapot and Umpachenee helped select the town government after incorporation (Frazier, p. 47). However, after the French and Indian War more white colonists began to settle in the town and land issues began to arise (Calloway, p. 89). Historian Bryan Rindfleisch suggests that along with the pressure of living in a town which supported the Sons of Liberty, the lack of English support for the “Stockbridge Indians” during these land disputes may have had a hand in their decision to side with the rebels (Rindfleisch).
 
 # Joining the Revolution
 In July 1774 on the eve of the Revolution, 60 delegates from around the Berkshires met in Stockbridge to protest the tea tax and agree on a boycott of British goods (Frazier, p. 193). According to local lore, this meeting took place at a tavern still in operation today, The Red Lion Inn. This is reflected both by [the Inn](https://www.redlioninn.com/history) and by the Stockbridge-Munsee band of Mohicans in their [Walking-Tour of Main Street](https://www.nativeamericantrail.org/stockbridge-walking-tour/).
@@ -61,7 +61,7 @@ Both of these letters make clear the value placed on the “Stockbridge Indians�
 # Post-War Displacement
 
 In the immediate aftermath of the Revolution, appreciation was expressed directly by George Washington in the form of an ox roast in 1783, but even then, the “Stockbridge Indians” were becoming outsiders in their own town. In 1783, only two selectmen were indigenous men, and by 1784 there were none. By the following year the majority of the “Stockbridge Indians” had relocated to NY to live with the Oneida forming New Stockbridge (Calloway, p. 100-102). But again, the NY government was pressuring Indigenous Peoples to leave the state and by the 1790s problems had arisen again. In a narrative of his diplomatic work with western Indigenous Nations Hendrick Aupaumut notes:
->In all my arguments with these Indians, I have as it were oblige to say nothing with regard of the conduct of Yorkers, how they cheat my fathers, how they taken our lands Unjustly, and how my fathers were groaning as it were to their graves, in losing their lands for nothing, although they were faithful friends to the Whites” (Historical Society of Penn., p.128)
+>In all my arguments with these Indians, I have as it were oblige to say nothing with regard of the conduct of Yorkers, how they cheat my fathers, how they taken our lands Unjustly, and how my fathers were groaning as it were to their graves, in losing their lands for nothing, although they were faithful friends to the Whites (Historical Society of Penn., p.128)
 
 It seems clear that despite the ongoing loyalty of the “Stockbridge Indians” and Aupaumut’s continued diplomatic work, the new US government was unconcerned with reciprocating any assistance. By the early 1800s, the “Stockbridge Indians” had moved again to Indiana, only to find out the land had already been taken. They eventually settled in Wisconsin in 1822, where their descendants remain today, over 1100 miles away from the town their ancestors founded ([Stockbridge-Munsee Band of Mohicans]( https://www.mohican.com/brief-history/)). An 1855 Map of Stockbridge shows almost no trace of the Mohicans who started the town.
 
@@ -98,6 +98,9 @@ There has been continued and increasing involvement in the town by the Stockbrid
 - A [webinar series](https://www.mohican.com/2024-winter-webinar-series/) of their on-going work.
 
 Perhaps the biggest achievement was the [2023 grant to purchase back 351 acres of ancestral land in Stockbridge](https://www.wbur.org/news/2023/08/31/stockbridge-munsee-mohicans-berkshires-land-monument-mountain-grants).  The future may see a much bigger presence of the Stockbridge-Munsee band of Mohicans in the area, but as the 250th anniversary of the country nears, the role of the “Stockbridge Indians” should be honored.
+
+
+*Tamara Uhaze is a research libararian at Northeastern University. She holds graduate degrees in Information Science and Ancient History.*
 
 # References
 Colin G. Calloway, *The American Revolution in Indian Country: Crisis and Diversity in Native American Communities*. (Cambridge University Press, 1995).
