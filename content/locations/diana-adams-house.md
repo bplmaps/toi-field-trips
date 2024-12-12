@@ -46,12 +46,7 @@ A way for women to gain independence outside of owning a business was to own pro
 
 John West's 1798 Boston City Directory.
 
-
 In an earlier directory from 1796, Thomas Adams was listed as living on Prince Street. A list of births in 
-
-<zoomable-image type="static-external" src="https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/apid:TH-267-11107-56426-45/thumb_p200.jpg" alt="Birth record of Diana Adams, daughter of Diana and Thomas Adams from FamilySearch" caption="Birth record of Diana and Thomas Adams's daughter, Diana Adams"></zoomable-image>
-Birth record of Diana Adams, daughter of Diana and Thomas Adams.
-
 
 ## Women in Clough's Atlas
 <zoomable-image type="static-external" src="https://www.masshist.org/database/images/5052_leaffront_work_lg.jpg" alt="Overview Map from Clough's Atlas of Boston neighborhoods" caption="Overview map within Clough’s Atlas of Boston neighborhoods."></zoomable-image>
