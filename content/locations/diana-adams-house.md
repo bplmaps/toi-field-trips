@@ -6,7 +6,9 @@ order: 0
 latitude: 42.366939
 longitude: -71.057995
 resources:
-- clough-atlas 
+- clough-atlas
+- city-directories
+- probate-records
 ---
 # Introduction
 As revolutionary thoughts and ideologies grew in Boston as the end of the 18th century neared, these revolutionary ideals grew beyond the American economy and politics into the [domestic sphere](https://ejournals.bc.edu/index.php/elements/article/view/8906). Democracy, equality, and independence as beliefs started to find their way into the social order of women. [Republican motherhood](https://uncpress.org/book/9780807846322/women-of-the-republic/) enabled women to be educators of the next generation of great American citizens, while other women found independence through owning businesses and property. Women's lives changed as they reached beyond the traditional domestic space.
