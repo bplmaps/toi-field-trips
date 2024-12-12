@@ -8,6 +8,7 @@ longitude: -71.0635
 resources:
 - map-children
 - primary-sourceorg
+- mhs
 ---
 
 # The Boston Almshouse and the American Revolution
