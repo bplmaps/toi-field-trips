@@ -51,3 +51,19 @@ In an earlier directory from [1796](https://archive.org/details/bd-1796/page/n13
 ## Women in Clough's Atlas
 <zoomable-image type="static-external" src="https://www.masshist.org/database/images/5052_leaffront_work_lg.jpg" alt="Overview Map from Clough's Atlas of Boston neighborhoods" caption="Overview map within Clough’s Atlas of Boston neighborhoods."></zoomable-image>
 Overview map within Clough's Atlas of Boston neighborhoods. 
+
+
+Danielle DeVantier is a public history master’s student at Northeastern University. 
+
+
+## References
+
+"Boston, Suffolk, Massachusetts, United States records," *FamilySearch*, https://www.familysearch.org/ark:/61903/1:1:F4DK-S2V. 
+
+Kerber, Linda K. Women of the Republic: Intellect and Ideology in Revolutionary America. University of North Carolina Press, 1980. http://www.jstor.org/stable/10.5149/9780807899847_kerber.
+
+Lagorio, Maria. “Women of Copley’s Boston: Changing Gender Roles on the Eve of the American Revolution”. *Elements* vol. 5 no. 1, 2009. https://doi.org/10.6017/eurj.v5i1.8906.
+
+"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001", *FamilySearch*, Entry for Edward Staples and Diana Adams, 1791, https://familysearch.org/ark:/61903/1:1:QG1K-NTTV.
+
+*Suffolk County, MA: Probate File Papers*. Online database. *AmericanAncestors.org*. New England Historic Genealogical Society, 2017-2019. (From records supplied by the Massachusetts Supreme Judicial Court Archives. Digitized images provided by FamilySearch.org). https://www.americanancestors.org/DB2735/i/48702/21842-co2/73277256. 
