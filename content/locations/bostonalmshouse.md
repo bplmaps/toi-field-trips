@@ -6,7 +6,8 @@ order: 0
 latitude: 42.35715
 longitude: -71.0635
 resources:
-- demo-resource
+- map-children.md
+- priamry-sourceorg.md
 ---
 
 # The Boston Almshouse and the American Revolution
