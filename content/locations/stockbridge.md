@@ -73,11 +73,11 @@ It seems clear that despite the ongoing loyalty of the “Stockbridge Indians”
 # Acknowledgement, Reclamation, & The Future
 Acknowledgement of the “Stockbridge Indians” role in the revolution has never been forgotten by scholars but has also not been widely spread to the public in the ways that other aspects of the Revolution have. In the town of Stockbridge you can visit the additional sites below:
 
-![Konkapot's Grave](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Konkapot_Grave_Large.jpg)
+![Konkapot's Grave](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Konkapot_Grave.jpg)
 
 The grave of Konkapot, with a dedication to other "Housatonic Indians".
 
-![The grave of two Stockbridge Women](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Sarah_and_Roxy_Grave.jpg)
+![The grave of two Stockbridge Women](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Sarah_and_Roxy_Grave_cropped.jpg)
 
 The grave of Sarah Towsey and Roxy Seebuck, two Indigenous women.
 
