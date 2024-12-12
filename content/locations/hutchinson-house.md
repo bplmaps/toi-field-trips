@@ -16,5 +16,5 @@ resources:
 
 <zoomable-image type="static-external" src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:t722jj59j/image_thumbnail_300.jpg" alt="Engraving of the Hutchinson House" caption="This is a mid-nineteenth century engraving of the Hutchinson House. The text underneath describes the home and its destruction by Patriots before the Revolution."></zoomable-image>
 
-<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#{{hutchinson.json}}" width="100%" height="500"> 
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#hutchinson" width="100%" height="500"> 
 </iframe>
