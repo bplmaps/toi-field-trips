@@ -53,7 +53,7 @@ While “Stockbridge Indians” joined the militia directly serving at the Siege
 
 Below is a list of names of the “Stockbridge Indians” who joined the Revolutionary War, courtesy of the Stockbridge Archives. On the list are Abram Nauaumptonky and William Notonksin, who in 1775 would become the first two Indigenous men to die in the revolution, having been mistakenly shot by American soldiers during a skirmish with the British near Cambridge (Frazier, p.200).
 
-![List of Stockbridge Indians in Revolutionary War](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Stockbridge_Militia_List_Medium.jpeg)
+![List of Stockbridge Indians in Revolutionary War](https://d2jv02qf7xgjwx.cloudfront.net/accounts/317840/images/Konkapot_Grave_Medium.jpg)
 
 Another notable name is Hendrick Aupaumut, who would become a captain of the militia. In a [letter from George Washington to Aupaumut](https://founders.archives.gov/documents/Washington/03-21-02-0283) in July of 1779 he states:
 >This is to declare that from the good opinion I have of your bravery and attachment to the United States of America, I approve … that you shall have and receive the pay of a Captain... every private man in your company, while they are in the said service shall have & receive the same pay and allowance of provisions, as the Soldiers employed in the Army.
