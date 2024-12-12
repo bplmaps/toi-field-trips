@@ -8,6 +8,7 @@ longitude: -73.322382
 resources:
 - footprints-of-our-ancestors
 - mission-house
+- mohican-web
 ---
 
 
@@ -87,7 +88,7 @@ The Children's Chime Tower, Library of Congress, 2019. The plaque above the door
 
 The Mission House, built by John Sergeant c.1742. Now a museum with artifacts from the "Stockbridge Indians."
 
-In their town there is no monument to their service and sacrifice, but in NY a 1906 monument marks the mass grave of fallen “Stockbridge Indians” in Van Cortlandt Park, and a statue of Daniel Nimham, a Wappinger sachem and Stockbridge Militia leader, was erected in Fishkill in 2020. 
+In their town there is no monument to their service and sacrifice, but in NY a [1906 monument](https://nycemetery.wordpress.com/2022/03/01/stockbridge-indian-burial-ground/) marks the mass grave of fallen “Stockbridge Indians” in Van Cortlandt Park, and a statue of Daniel Nimham, a Wappinger sachem and Stockbridge Militia leader, was [erected in Fishkill in 2022](https://midhudsonnews.com/2022/05/23/town-of-fishkill-to-dedicate-statue-to-sachem-daniel-nimham/). 
 
 Most notably the Museum of the American Revolution in Philadelphia has no permanent information about the “Stockbridge Indians” though they have named exhibit halls to honor the Oneida who were also allies in the war.
 
