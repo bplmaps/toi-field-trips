@@ -13,7 +13,7 @@ resources:
 In pre-Revolution Boston, industry and manufacturing had two forms: mills outside of the city and small workshops on the peninsula. The [first grist mills](https://www.jstor.org/stable/25080477) for grinding grain on the Charles and Neponset rivers opened within four years of Boston’s founding in 1630. The flow of the rivers provided power to run the machinery, which was not possible within Boston proper. On the Shawmut Peninsula, manufacturing, including chocolate grinding, occurred in the bustle of the city in neighborhoods like the North End filled with homes and businesses close to the waterfront where unprocessed goods arrived in ships from abroad.
 
 <zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:9g54xk60z" alt="Mills on a river in Maine" caption="Mills on the Mechias River in Maine in 1777. The mills near Boston may have looked something like these."></zoomable-image>
-*Mills on the Mechias River in Maine in 1777. The mills near Boston may have looked something like these.*
+*Mills on the Mechias River in Maine in 1777. The mills outside of Boston may have looked something like these.*
 
 ---
 
