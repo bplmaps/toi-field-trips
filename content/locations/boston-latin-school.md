@@ -31,7 +31,7 @@ In the pre-Revolutionary era, there were five [public schools](https://www.paulr
 
 While all five schools helped educate Boston’s young men in the pre-Revolutionary era, this essay discusses in detail the [Boston Latin School](https://www.bls.org/apps/pages/index.jsp?uREC_ID=206116&type=d). This is because when compared to the other four schools, the Boston Latin School has the most detailed historical records available today. These detailed records exist due to the school’s long history and prestige as the oldest school in America. However, this focus on the Boston Latin School does not mean the other schools did not play a role in exposing Boston’s young men to revolutionary ideology. All five schools working together were vital in spreading revolutionary ideology to all of Boston’s school-aged boys. Just because good historical records exist for one of the schools does not mean the contributions of the other four schools will be overlooked.
 
-<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#{{boston-schools}}" width="100%" height="500">
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#boston-schools" width="100%" height="500">
 </iframe>
 
 ![The Boston Latin School, 1748-1812](https://www.bls.org/ourpages/auto/2023/4/21/58958090/bls2.jpg?rnd=1682116502751)
