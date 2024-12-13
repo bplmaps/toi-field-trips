@@ -31,7 +31,6 @@ Mrs. Ezekiel Goldthwait appears here in front of a dark and anonymous setting, r
 
 ## Elizabeth Murray
 ![Mrs. James Smith (Elizabeth Murray)](https://collections.mfa.org/internal/media/dispatcher/842666/resize%3Aformat%3Dthumbnail)
-
 John Singleton Copley, *Mrs. James Smith (Elizabeth Murray)*, 1769, oil on canvas, Boston, Museum of Fine Arts. 
 
 During this era, some women chose not to be limited to a life only within the home and remain dependent on a husband. Finding success in running a business, like importing and selling goods, was a path out of the domestic sphere for some colonial women like [Elizabeth Murray](https://www.bwht.org/explore/elizabeth-murray/). Murray was married three times but had no children. She ran a business importing fabric, millinery items, and other dry goods from Britain and sold them in Boston, near the State House. 
@@ -45,7 +44,6 @@ Clough's map of the 200 Block in the North End neighborhood between Prince Stree
 A way for women to gain independence outside of owning a business was to own property. Women property owners in the 18th century could have inherited their property from a male family member or their late husband, if they did not have access to their own wealth like Elizabeth Murray did as a merchant. Diana Adams appears in [Clough's Atlas of Boston neighborhoods](https://www.masshist.org/database/1761) as owning properties on Prince Street next to the Charles River. She also appears in Boston's city directories in 1798 and 1800 as living on Prince Street.  Diana does not appear in the 1803 city directory as the city's [probate record](https://www.americanancestors.org/DB2735/i/48702/21842-co2/73277256) of her estate listed her death in 1803.
 
 ![1798 Boston City Directory](https://ia802203.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/bd-1798/BD_1798_jp2.zip&file=BD_1798_jp2/BD_1798_0007.jp2&id=bd-1798&scale=16&rotate=0)
-
 John West's 1798 Boston City Directory.
 
 In an earlier directory from [1796](https://archive.org/details/bd-1796/page/n13/mode/2up), Thomas Adams was listed as living on Prince Street. Thomas and Diana appear together in a list of [Boston birth records](https://www.familysearch.org/ark:/61903/1:1:F4DK-S2V) from 1775 as the parents of Diana Adams. Their daughter Diana married [Edward Staples](https://familysearch.org/ark:/61903/1:1:QG1K-NTTV) in 1791. Edward Staples was named the administrator of Diana's estate after she died in 1803, as her estate would have passed on to her children. Diana would have occupied a similar domestic space and social order as Mrs. Ezekiel Goldthwait, living with her merchant husband in the North End. Diana would have lived independently for several years following her husband Thomas's death in 1796. She may have relied on her daughter and son-in-law for some support, but she was the owner of the property on Prince Street, which was a freedom not granted to many colonial women. 
