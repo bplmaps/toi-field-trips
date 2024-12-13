@@ -54,6 +54,10 @@ In an earlier directory from [1796](https://archive.org/details/bd-1796/page/n13
 <zoomable-image type="static-external" src="https://www.masshist.org/database/images/5052_leaffront_work_lg.jpg" alt="Overview Map from Clough's Atlas of Boston neighborhoods" caption="Overview map within Clough’s Atlas of Boston neighborhoods."></zoomable-image>
 Overview map within Clough's Atlas of Boston neighborhoods. 
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CP9g9_ZP4rLFz6wx4LUzZFbUlT7llpc&ehbc=2E312F" width="640" height="480"></iframe>
+
+Plotted points of women property owners from Clough's Atlas of Boston neighborhoods, blocks 100-5000. 
+
 
 Danielle DeVantier is a public history master’s student at Northeastern University. 
 
