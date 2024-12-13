@@ -111,10 +111,10 @@ export default {
     return {
       debug: false,
       mapLoaded: false,
-      zoom: 15.25,
+      zoom: 13,
       maxZoom: 19,
       center: [-71.056187, 42.358524],
-      extent: [-71.076187, 42.348524, -71.036187, 42.368524],
+      extent: [-71.1797,42.2741,-70.9616,42.4305],
       point: [38.726634, 9.003391],
       coordinates: [],
       locations: [],
