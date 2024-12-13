@@ -6,8 +6,8 @@ order: 0
 latitude: 42.363992401908874 
 longitude: -71.0530531935197
 resources: 
-- Revolutionary Spaces
-- American Battlefield Trust
+- revolutionaryspaces
+- 
 - Colonial Society of Massachusetts
 - Historic New England
 ---
@@ -46,6 +46,8 @@ On the night of August 26, 1765, an angry mob of colonists marched to the Hutchi
 Even though not many people from outside of Boston know about the destruction of the Hutchinson house, it was an important catalyst for the American Revolution. The ransacking of the Hutchinson Manor was one of the main reasons that then governor, Francis Bernard, called for British soldiers to bring order to the city. A year and a half after their arrival, these soldiers would commit the Boston Massacre, which is believed by many to be the beginning of the end of British rule in colonial America. Eventually, the Hutchinson House was removed, and the only thing that marks its location is an easy to miss plaque. Unfortunately, the plaque makes no mention of the looting of the manor, but this event and building must not be forgotten. The Hutchinson House was one of the most opulent buildings in the city and was built by one of the oldest Boston families, a family which had numerous ties to England, but within a short time, it was destroyed by Patriots in the years leading to the Revolution. Its site is now mostly forgotten while the nearby Paul Revere House still stands. It serves as a fitting example of the rapid and complete change America went through before, during, and after the War of Independence. 
 
 <zoomable-image type="https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:kw52mx31v/image_access_800.jpg" alt="A dark plaque against a brick building. It reads Here Stood the Mansion of Governor Thomas Hutchinson. Built About 1687." caption="The plaque that marks the site of the Hutchinson House."></zoomable-image>
+
+
 
 
 *Edward Castleman is a Public History Master’s student at Northeastern University.*
