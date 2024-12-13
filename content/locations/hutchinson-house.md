@@ -7,7 +7,7 @@ latitude: 42.363992401908874
 longitude: -71.0530531935197
 resources: 
 - revolutionaryspaces
-- abf
+- abft
 - csmass
 - hne
 ---
@@ -26,7 +26,7 @@ Although relatively little is known about the Hutchinson House’s construction 
 
 Due to colonial documents that will be discussed later, we know much more about the manor’s contents than we do the layout. Many of the rooms contained walnut furniture, and the guest bedroom even contained furniture made from ivory. Hutchinson owned silver-hilted swords, paintings with golden frames, chairs lined with Moroccan leather, satin sheets and cushions, and numerous “japanned” pieces of furniture, which are items designed and constructed to look like they were from East Asia. The Hutchinson Family Manor was one of the largest and most opulent homes in all of Boston and served as a symbol of the Hutchinson family’s success.
 
-<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/hutchinson.json" width="100%" height="500">
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#hutchinson" width="100%" height="500">
 </iframe>
 
 <zoomable-image type="static-external" src="https://bpldcassets.blob.core.windows.net/derivatives/metadata/commonwealth-oai:t722jj59j/image_thumbnail_300.jpg" alt="Engraving of the Hutchinson House" caption="This is a mid-nineteenth century engraving of the Hutchinson House. The text underneath describes the home and its destruction by Patriots before the Revolution."></zoomable-image>
@@ -40,14 +40,10 @@ In the mid eighteenth century while Thomas Hutchinson was climbing his way up th
 On the night of August 26, 1765, an angry mob of colonists marched to the Hutchinson House (Thomas was lieutenant governor at the time). They were angry that Hutchinson would not formally renounce the Stamp Act to London and that his brother-in-law had recently been promoted to stamp officer for the city. Hutchinson actually did have problems with the Stamp Act and had told people in London so, but never publicly agreed to not enforce it. Whatever the case, Thomas and his family were told while eating dinner that a mob was coming to destroy his house. His family fled in their evening close to another house south of Boston, and shortly after their departure, the mob arrived. The mob removed all of the possessions from the manor and threw them into the street. The items that were not destroyed were stolen, although a few items were eventually returned. Even many of the interior walls were destroyed as well. When Thomas Hutchinson returned to the manor the next day, he said all that was left were the walls and floors. He then went to what is now the Old State House to ask for compensation for his destroyed belongings. It is actually from his report for compensation that we know what he owned and how much it was worth. The rioters destroyed so much of his belongings that when Thomas went before the colonial government, he was wearing his night clothes, because they were the only thing left. According to the report, the damages done were worth around $545,000 in today’s money. 
 
 
-
 ## The Legacy of the Hutchinson Riot ##
 
 Even though not many people from outside of Boston know about the destruction of the Hutchinson house, it was an important catalyst for the American Revolution. The ransacking of the Hutchinson Manor was one of the main reasons that then governor, Francis Bernard, called for British soldiers to bring order to the city. A year and a half after their arrival, these soldiers would commit the Boston Massacre, which is believed by many to be the beginning of the end of British rule in colonial America. Eventually, the Hutchinson House was removed, and the only thing that marks its location is an easy to miss plaque. Unfortunately, the plaque makes no mention of the looting of the manor, but this event and building must not be forgotten. The Hutchinson House was one of the most opulent buildings in the city and was built by one of the oldest Boston families, a family which had numerous ties to England, but within a short time, it was destroyed by Patriots in the years leading to the Revolution. Its site is now mostly forgotten while the nearby Paul Revere House still stands. It serves as a fitting example of the rapid and complete change America went through before, during, and after the War of Independence. 
 
-
-
-
-
+<zoomable-image type="static-external" src="https://bpldcassets.blob.core.windows.net/derivatives/images/commonwealth:kw52mx31v/image_access_800.jpg" alt="A plaque that marks the location of the Hutchinson House. It reads Here Stood the Mansion of Governor Thomas Hutchinson built around 1687" caption="The plaque that marks the location of the Hutchinson House."></zoomable-image>
 
 *Edward Castleman is a Public History Master’s student at Northeastern University.*
