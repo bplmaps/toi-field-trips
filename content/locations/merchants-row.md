@@ -10,18 +10,11 @@ resources:
 ---
 
 
-<zoomable-image type="iiif" src="https://www.digitalcommonwealth.org/search/commonwealth:cn69ms283/manifest](https://www.digitalcommonwealth.org/search/commonwealth:cn69ms283/manifest.json" alt="Depiction of a British trading schooner" caption="A lighthouse on an island in Bostons harbor welcomes the British trading schooner"></zoomable-image>
-
+<zoomable-image type="static-external" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cn69ms29c" alt="Depiction of a British trading schooner" caption="A lighthouse on an island in Bostons harbor welcomes the British trading schooner"></zoomable-image>
 
 # A Street of Transformation 
 
 Merchant’s Row was once a bustling commercial hub at the heart of Boston, pivotal to the city's growth as a major port in the 18th and 19th centuries. Positioned near the waterfront, this street and the connections forged on it helped establish Boston as a key player in international trade. Today, though much of the street has been redeveloped, its historical significance endures in the surrounding Financial District, a thriving area of commerce. 
-
-
-<zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:wd378k393" alt="Photograph of customs house" caption="Ths is a very interesting image for the following reasons"></zoomable-image>
-
-<zoomable-image type="static-external" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/South_Station%2C_Boston%2C_Massachusetts_April_2022.jpg/1600px-South_Station%2C_Boston%2C_Massachusetts_April_2022.jpg?20220507230049" alt="Photograph of South Station" caption="This image is from Wikimedia Commons"></zoomable-image>
-
 
 ### Location and Urban Context 
 
@@ -32,7 +25,6 @@ Additionally, according to the historian Benjamin L. Carp,
 
 By the 18th century, Boston’s waterfront had become one of the busiest ports in the Americas. Merchant’s Row, with its warehouses and offices, was integral to the city’s booming trade network. The largest and most prominent building which exited during revolutionary times was the Triangular Warehouse, which was speculated to have been owned by Dutch Tea Traders, since that is where most of the tea from holland had been smuggled into.
 
-
 ![The Triangular Warehouse](https://upload.wikimedia.org/wikipedia/commons/1/13/TriangularWarehouse_MerchantsRow_Boston_DearbornReminiscences.png)
 
 ### The Role of Merchant’s Row in Boston’s Economy 
@@ -41,10 +33,8 @@ As a vital node in the transatlantic trading network, the wealthy merchants like
 
 A key component of this trade was the triangular, transatlantic trade system: enslaved Africans were brought to the Americas and the Caribbean, from these locales, raw materials like sugar and molasses were shipped to Great Britain, and manufactured goods like textiles and rum from the British Empire were then sent to West Africa in exchange for more enslaved people. Merchant’s Row was central to this exchange. 
 
-
-<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#merchants-row-panel.json" width="100%" height="500">
+<iframe src="https://garrettdashnelson.github.io/panel-truck-shell/#merchants-row-panel" width="100%" height="500">
 </iframe>
-
 
 ### Slavery in Colonial Boston 
 
@@ -52,8 +42,7 @@ Slavery was integral to Boston’s economy. As an important port in the transatl
 
 Enslaved people worked in Boston’s harbor, on ships, in warehouses, and in the homes of wealthy merchants. The wealth generated from this exploitation of human labor was vital to Boston’s mercantile economy. Despite its reputation for revolutionary ideals, Boston’s practice of slavery is a fact often overshadowed by the city’s role in the fight for independence. 
 
-<zoomable-image type="static-external" src="[https://www.masshist.org/dorr/volume-images/vol4/seq_4_1079.jpg)" alt="Newspaper with advertisements for goods" caption="On the right side of the page, a slave is advertised to be sold"></zoomable-image>
-
+<zoomable-image type="static-external" src="https://www.masshist.org/dorr/volume-images/vol4/seq_4_1079.jpg" alt="Newspaper with advertisements for goods" caption="On the right side of the page, a slave is advertised to be sold"></zoomable-image>
 
 ### Phillis Wheatley
 
@@ -61,11 +50,9 @@ Enslaved people worked in Boston’s harbor, on ships, in warehouses, and in the
 
 Phillis Wheatley was an African American poet, born around 1753 near the coast of West Africa, who was enslaved and brought to Boston at a young age. She would have likely been purchased by the Wheatley family in Merchant's Row and lived very close by. She became the first African American woman to publish a book of poetry, *Poems on Various Subjects, Religious and Moral*, in 1773. Her work, praised for its classical style and intellectual depth, played a significant role in challenging racial stereotypes during the 18th century. She became so famous in her brief lifetime that she traded letters of correspondence with George Washington. 
 
-
 ### Merchant’s Row and the American Revolution 
 
 ![Protest pamphlet](https://www.masshist.org/database/images/740wjackson_lg.jpg)
-
 
 Merchant’s Row was crucial to the events leading up to the American Revolution. The merchant class, heavily impacted by British policies like the Stamp Act (1765) and the Townshend Acts (1767), organized boycotts of British goods, often planning them in commercial hubs like Merchant’s Row and Faneuil Hall. Boston’s economy, which was primarily based on sea trade, depended heavily on its merchants' access to both regional and international markets. However, the city’s hinterland had few industries to support its economy, making it particularly vulnerable to external trade disruptions. As British policies became more coercive and punitive, the local economy suffered greatly. These economic constraints led to widespread hardship, prompting even greater resistance from Boston’s merchant class. (Earle, p.153-172)
 
