@@ -10,7 +10,7 @@ resources:
 ---
 
 
-<zoomable-image type="static-external" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cn69ms29c" alt="Depiction of a British trading schooner" caption="A lighthouse on an island in Bostons harbor welcomes the British trading schooner"></zoomable-image>
+<zoomable-image type="iiif" src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cn69ms29c" alt="Depiction of a British trading schooner" caption="A lighthouse on an island in Bostons harbor welcomes the British trading schooner"></zoomable-image>
 
 # A Street of Transformation 
 
