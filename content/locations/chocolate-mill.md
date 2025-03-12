@@ -3,8 +3,8 @@ title: Jonas Welsh's Chocolate Mill
 metaDescription: This is a chocolate mill in the North End of Boston.
 description: During the Revolutionary era, Jonas Welsh owned a chocolate mill at the corner of Margaret Lane and Sheaf Street in the North End of Boston.
 order: 0
-latitude: 42.36617305911067
-longitude: -71.05562085737431
+latitude: 42.36572
+longitude: -71.05770
 resources:
 - clough-atlas
 - ECDA
