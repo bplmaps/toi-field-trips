@@ -21,7 +21,7 @@
             to="/"
             class="absolute top-0"
           >
-            <div class="h-10 my-5 w-auto xl:h-18 xl:my-12">Terrains of Independence Tours</div>
+            <div class="h-10 my-5 w-auto xl:h-18 xl:my-12">Terrains of Independence Field Trips</div>
           </nuxt-link>
           <h1 v-if="page.hero.headline" class="text-2xl lg:text-4xl border-b border-pewter pb-8 mb-4 lg:w-2/3 lg:pb-0 lg:mb-0 lg:border-0 lg:pr-14 xl:text-5xl 2xl:pr-28 2xl:text-6xl">
             {{ page.hero.headline }}
@@ -55,7 +55,7 @@
     </div>
 
     <div v-if="page.body_paragraph" class="container mx-auto px-5 py-14 sm:py-28 xl:max-w-[68rem]">
-      <render-markdown class="text-xl leading-none xl:text-2xl leading-relaxed" :source="page.body_paragraph">
+      <render-markdown class="text-xl leading-none xl:text-2xl leading-relaxed  [&>p>a]:text-blue-800" :source="page.body_paragraph">
       </render-markdown>
     </div>
 
@@ -104,33 +104,10 @@
       </figcaption>
     </figure>
 
-    <div v-if="page.accessibility" class="relative sm:bg-midnight sm:text-white">
-      <div class="container mx-auto px-5 py-14 sm:py-28">
-        <div class=" md:pl-8 lg:pl-14">
-          <h2 v-if="page.accessibility.heading" class="text-base text-2xl leading-none mb-4 max-w-[10rem] lg:mb-8 xl:text-3xl xl:max-w-[14rem] 2xl:text-4xl 2xl:max-w-xs">
-            {{ page.accessibility.heading }}
-          </h2>
-          <div v-if="page.accessibility.paragraph || page.accessibility.locations_intro" class="font-sans text-base leading-tight max-w-xs md:max-w-sm">
-            <render-markdown class="mb-4" :source="page.accessibility.paragraph" />
-            <p v-if="page.accessibility.locations_intro && allLocations.length" class="mb-4">
-              {{ page.accessibility.locations_intro }}
-            </p>
-          </div>
-        </div>
-      </div>
-      <nuxt-img
-        v-if="page.accessibility.img"
-        class="block w-full h-auto bg-black aspect-square object-cover object-center md:absolute md:top-0 md:left-0 md:w-1/2 md:h-full"
-        sizes="sm:100vw md:50vw lg:50vw xl:50vw 2xl:50vw"
-        :src="page.accessibility.img.src"
-        :alt="page.accessibility.img.alt"
-      />
-    </div>
-
     <div v-if="page.footer_credit" class="bg-periwinkle">
       <div class="container mx-auto px-5 py-14 sm:py-28 xl:max-w-[68rem]">
         <p class="text-base leading-none max-w-[18rem] sm:text-3xl sm:max-w-[34rem] xl:max-w-[52rem] 2xl:text-4xl 2xl:max-w-[60rem]">
-          <render-markdown class="mb-4" :source="page.footer_credit" />
+          <render-markdown class="mb-4 [&>p>a]:text-blue-600" :source="page.footer_credit" />
         </p>
       </div>
     </div>

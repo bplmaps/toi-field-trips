@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Terrains of Independence Tours',
+    title: 'Terrains of Independence Field Trips',
     htmlAttrs: {
       lang: 'en'
     },
@@ -14,10 +14,10 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'msapplication-TileColor', content: '#1d1e2c' },
       { name: 'theme-color', content: '#1d1e2c' },
-      { name: 'og:site_name', content: 'Terrains of Independence Tours' },
+      { name: 'og:site_name', content: 'Terrains of Independence Field Trips' },
       { name: 'og:type', content: 'website' },
       { name: 'twitter:card', content: 'summary' },
-      { name: 'twitter:site', content: '@walktotheseabos' }
+      { name: 'twitter:site', content: '@bplmaps' }
     ],
     link: [
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },

@@ -5,7 +5,7 @@
         class="inline-block"
         to="/"
       >
-        <div>Terrains of Independence Tours</div>
+        <div>Terrains of Independence Field Trips</div>
       </nuxt-link>
     </div>
   </header>

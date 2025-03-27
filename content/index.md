@@ -10,7 +10,7 @@ hero:
         paragraph: "Start your journey by opening the map or beginning at the first stop."
         map_link: "Explore map"
         first_location_link: "Begin at the first stop"
-body_paragraph: "In 1775, a collision of word-historical forces, driven by ocean-spanning empires, conflicts over trade and settlement, and new ideas about society and government, came together in the spark of the American Revolution. Yet although both the causes and the consequences of the Revolution were grand in scale, the war ignited in the tinderbox of a very specific local geography: Boston and the surrounding towns of Massachusetts. Why did it happen here? The revolutionary moment was as much about places as it was about people or ideas. In and around Boston, the tensions of Britain’s colonial empire had been rising for decades before the 1770s. The commercial geography of the city and its region, zones of friction between classes and communities, and contestations over the environment all helped to create the conditions that led to an era of revolutionary upheaval in Massachusetts. These tour sites help expand the gallery exhibition _Terrains of Independence_ and invite you to discover how geography shapes the past."
+body_paragraph: "The Leventhal Map & Education Center's 2025--2026 exhibition [Terrains of Independence](https://www.argomaps.org/digital-exhibitions/terrains-of-independence/) continues beyond the walls of the gallery in this student-written tour of sites related to Revolutionary geography in Massachusetts. Copley Square, where the Boston Public Library is located, isn't itself a significant site for the Revolutionary period, since it was a tidal marsh in the 1770s. Northeastern University students designed this interactive set of field trips to encourage you to explore the spaces and places of the American Revolution."
 locations:
     img:
         src: "/page-map.jpg"
@@ -20,5 +20,5 @@ locations:
 accessibility:
     heading: "Route Planning"
     paragraph: "Info TKTK"
-footer_credit: "A coursework project created by students in [Public History at Northeastern University]() and the [Norman B. Leventhal Map and Education Center at the Boston Public Library](https://leventhalmap.org)"
+footer_credit: "A coursework project created by students in [Public History at Northeastern University](https://cssh.northeastern.edu/history/program/master-of-arts-in-history/public-history-overview/) and the [Norman B. Leventhal Map and Education Center at the Boston Public Library](https://leventhalmap.org)"
 ---
